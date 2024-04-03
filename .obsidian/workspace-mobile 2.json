@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e4391e45036c5ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d48d0be7c63239a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbcee1d836b2cf72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 3.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89ca26533a745704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 4.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56443de11202b1c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb5a6b0a75311e76",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d8699b5963a7de68",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d5393b246f8eee8e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8c11d8871fc624ec",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "f9e18ffba369913b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "217a1eb29ff5a1b7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Studienweg Deutsch 2/Lektion 3.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0008023ee1b960fa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Studienweg Deutsch 2/Lektion 3.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d356e74cc555ec2a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Studienweg Deutsch 2/Lektion 3.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "cbcee1d836b2cf72",
+  "lastOpenFiles": [
+    "Studienweg Deutsch 2/Lektion 4.md",
+    "Studienweg Deutsch 2/Lektion 3.md",
+    "Studienweg Deutsch 2/Hoertext/L4/035 L4 ü8 Vergleich-Korrektur.mp3",
+    "Studienweg Deutsch 2/Hoertext/L4/031 L4 T1 Kurzdialoge.mp3",
+    "Studienweg Deutsch 2/Hoertext/L4/033 L4 T2.1 Ein Anruf beim Arzt.mp3",
+    "Studienweg Deutsch 2/Lektion 1.md",
+    "Studienweg Deutsch 2/Hoertext/L4/032 L4 ü6 Erst hoeren,dann lesen!.mp3",
+    "Studienweg Deutsch 2/Bilder/Farben.jpeg",
+    "Template.md",
+    "Studienweg Deutsch 2/Hoertext/L4/034 L4 T2.2 Beim Arzt.mp3",
+    "Studienweg Deutsch 2/Hoertext/L2/012 L2 ü7 Wer ist es.mp3",
+    "Studienweg Deutsch 1/Bilder/Krippe.jpeg",
+    "Studienweg Deutsch 2/Hoertext/L1/009 L1 Vokabeln von Woerter.mp3",
+    "Studienweg Deutsch 2/Hoertext/L3/023 L3 ü6 Nachbarinnen.mp3",
+    "Studienweg Deutsch 2/Hoertext/L2/013 L2 T3 Wer war's.mp3",
+    "Studienweg Deutsch.md",
+    "IMG_6731.heic",
+    "Passwort Deutsch 1/Lektion 7.md",
+    "Studienweg Deutsch 1/Lektion 12.md",
+    "Studienweg Deutsch 1/Lektion 7.md",
+    "Studienweg Deutsch 1/Lektion 10.md",
+    "Studienweg Deutsch 2/Lektion 2.md",
+    "Studienweg Deutsch 2/Bilder/himmelsrichtung.jpeg",
+    "0.md",
+    "Studienweg Deutsch 1/Lektion 9.md",
+    "Untitled/Test List.md",
+    "QuickNotes/Tägliche Plannen.md",
+    "Studienweg Deutsch 1/Lektion 11.md",
+    "QuickNotes/Plural.md",
+    "Standard.md",
+    "QuickNotes/Wörter.md",
+    "QuickNotes/Quick.md",
+    "QuickNotes/Verben mit Dativ.md",
+    "Studienweg Deutsch 1/Bilder/Kitchenette.jpeg",
+    "Alles.md",
+    "Studienweg Deutsch 1/Lektion 6.md",
+    "QuickNotes/Wortgruppe.md",
+    "QuickNotes/Anderes.md",
+    "Studienweg Deutsch 2/Bilder/verwandte2.jpg",
+    "Studienweg Deutsch 2/Bilder/verwandte1.jpg",
+    "1.png",
+    "1 2.png",
+    "Studienweg Deutsch 1/Lektion 8.md",
+    "Screenshot 2023-08-13 at 01.33.33.png",
+    "QuickNotes/Screenshot 2023-08-09 at 15.01.09.png",
+    "Untitled.canvas"
+  ]
+}

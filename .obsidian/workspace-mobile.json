@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "e4391e45036c5ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c26d1a1d9095ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c2838e3758d69c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 11.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "847b6e28de2a94eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f163b7ede9001ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "56443de11202b1c1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb5a6b0a75311e76",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d8699b5963a7de68",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "nerv",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d5393b246f8eee8e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8c11d8871fc624ec",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "73419335297196d5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f9e18ffba369913b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "217a1eb29ff5a1b7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Studienweg Deutsch 2/Lektion 12.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0008023ee1b960fa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Studienweg Deutsch 2/Lektion 12.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d356e74cc555ec2a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Studienweg Deutsch 2/Lektion 12.md"
+          }
+        }
+      },
+      {
+        "id": "1bdf60ae4fd66b10",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f163b7ede9001ccd",
+  "lastOpenFiles": [
+    "Studienweg Deutsch 2/Lektion 11.md",
+    "Studienweg Deutsch 2/Lektion 10.md",
+    "Studienweg Deutsch 2/Lektion 12.md",
+    "Studienweg Deutsch 1/Lektion 10.md",
+    "Studienweg Deutsch 1/Lektion 12.md",
+    "Studienweg Deutsch 2/Hoertext/L12/102 L12 Vokabeln-T1.mp3",
+    "Studienweg Deutsch 2/Hoertext/L12/103 L12 Vokabeln-T2.mp3",
+    "Studienweg Deutsch 2/Hoertext/L12/105 L12 Vokabeln-Woerter.mp3",
+    "Studienweg Deutsch 2/Hoertext/L12/098 L12 ü5 Das kam im Fernsehen..mp3",
+    "Studienweg Deutsch 2/Hoertext/L12/101 L12 ü14 Fernsehen - ja, nein oder wie.mp3",
+    "Studienweg Deutsch 2/Hoertext/L12/104 L12 Vokabeln-T3.mp3",
+    "Temp.md",
+    "Studienweg Deutsch 2/Hoertext/L12/099 L12 T2 Das deutsche Fernsehen.mp3",
+    "Studienweg Deutsch 2/Hoertext/L12/097 L12 T1 Vier Leute, zwei Fernseher.mp3",
+    "Studienweg Deutsch 2/Hoertext/L12/100 L12 T3 Macht das Fernsehen passiv.mp3",
+    "Studienweg Deutsch 2/Lektion 9.md",
+    "Passwort Deutsch 2/Hoertexte/01/36 L14 Zu Besuch ... 2 b).mp3",
+    "Passwort Deutsch 2/Lektion 11.md",
+    "Studienweg Deutsch 1/Lektion 9.md",
+    "Studienweg Deutsch 1/Lektion 8.md",
+    "Studienweg Deutsch 2/Lektion 7.md",
+    "Studienweg Deutsch 2/Lektion 6.md",
+    "Studienweg Deutsch 2/Lektion 8.md",
+    "Standard.md",
+    "QuickNotes/September 2023.md",
+    "Easy German/How Germans Spend Their Free Time.md",
+    "Untitled 2.md",
+    "Lesebuch/26.Jan..md",
+    "动机.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Strange Plural.md",
+    "Studienweg Deutsch 1/Lektion 7.md",
+    "Gedächnis Liste.md",
+    "Studienweg Deutsch 1/Bilder/Krippe.jpeg",
+    "Studienweg Deutsch 2/Bilder/Farben.jpeg",
+    "Passwort Deutsch 1/Lektion 7.md",
+    "Studienweg Deutsch 1/Bilder/Kitchenette.jpeg",
+    "QuickNotes/Screenshot 2023-08-09 at 15.01.09.png",
+    "QuickNotes/Plaetzchen.jpeg",
+    "Studienweg Deutsch 2/Bilder/himmelsrichtung.jpeg",
+    "Studienweg Deutsch 2/Bilder/verwandte1.jpg",
+    "Studienweg Deutsch 2/Bilder/verwandte2.jpg",
+    "Studienweg Deutsch 2/Bilder/adjektivdeklination.png",
+    "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
+    "Untitled.canvas"
+  ]
+}

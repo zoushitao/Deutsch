@@ -1,0 +1,15 @@
+{
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "highlightr-plugin:highlighter-plugin-menu",
+    "editor:toggle-strikethrough"
+  ]
+}

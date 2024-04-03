@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "4a2db6d7305d914f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef858ce16d837cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9dd98303a3fb8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 11.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ae681ff70754b6de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tagebuch/1.Woche_April.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e28f101ae3c61d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa1dd84001c82630",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c3b80f3469b4c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fb12b0a1847b23d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "148bf8d9a5cbfe66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lassen",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2094e65240821d30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "09be3e592aed4380",
+    "type": "split",
+    "children": [
+      {
+        "id": "11def7608abdc82a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07fcc9d4de836b5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8fb1e8bbdc1f0e21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c6f6018882bcea8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0be9b38699e964c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 13.md"
+              }
+            }
+          },
+          {
+            "id": "33123c03fb334326",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "06071c962625147b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e28f101ae3c61d65",
+  "lastOpenFiles": [
+    "Deutsch",
+    "Studienweg Deutsch 2/Lektion 11.md",
+    "Studienweg Deutsch 2/Lektion 13.md",
+    "Tagebuch/1.Woche_April.md",
+    "Studienweg Deutsch 2/Lektion 12.md",
+    "Strange Plural.md",
+    "Studienweg Deutsch 2/Studienweg Deutsch 2 - Erster Teil.md",
+    "Studienweg Deutsch 2/Hoertext/L13/115 L13 Vokabeln-Woerter.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/114 L13 Vokabeln-T3.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/113 L13 Vokabeln-T2.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/112 L13 Vokabeln-T1.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/111 L13 ü14 Und so klingt das am Telefon.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/110 L13 T3.2 Ach Gott, Maria!.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/109 L13 T3.1 Help!Help!Help!.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/108 L13 ü11 Intranet in Guangzhou.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/107 L13 T2 Abk. und Smileys.mp3",
+    "Studienweg Deutsch 2/Hoertext/L13/106 L13 T1 Von Feder und Pinsel zum Simsalabim des Simsens.mp3",
+    "Untitled.md",
+    "动机.md",
+    "Gedächnis Liste.md",
+    "Rich Text.md",
+    "Tagebuch/26.Jan..md",
+    "Studienweg Deutsch 2/Lektion 9.md",
+    "Studienweg Deutsch 2/Lektion 10.md",
+    "Standard.md",
+    "Temp.md",
+    "港科广.md",
+    "Studienweg Deutsch 2/Lektion 8.md",
+    "Passwort Deutsch 2/Lektion 11.md",
+    "Studienweg Deutsch 1/Lektion 11.md",
+    "Studienweg Deutsch 2/Lektion 2.md",
+    "Studienweg Deutsch 2/Lektion 1.md",
+    "Studienweg Deutsch 2/Lektion 7.md",
+    "Passwort Deutsch 1/Lektion 8.md",
+    "Passwort Deutsch 1/Lektion 7.md",
+    "Studienweg Deutsch 2/Lektion 6.md",
+    "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
+    "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
+  ]
+}
