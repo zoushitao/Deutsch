@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagebuch/1.Woche_April.md",
+                "file": "Tagesbuch/1.Woche_April.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Standard.md",
+                "file": "Studienweg Deutsch 2/Lektion 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Standard.md",
+                "file": "Studienweg Deutsch 2/Lektion 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Standard.md"
+                "file": "Studienweg Deutsch 2/Lektion 12.md"
               }
             }
           },
@@ -193,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e28f101ae3c61d65",
+  "active": "7fb12b0a1847b23d",
   "lastOpenFiles": [
+    "Standard.md",
     "Studienweg Deutsch 2/Lektion 13.md",
     "Strange Plural.md",
     "Temp.md",
@@ -202,7 +202,7 @@
     "Untitled 1.md",
     "Studienweg Deutsch 2/Lektion 12.md",
     "Studienweg Deutsch 2/Lektion 11.md",
-    "Tagebuch/1.Woche_April.md",
+    "Tagesbuch/1.Woche_April.md",
     "Deutsch",
     "Studienweg Deutsch 2/Studienweg Deutsch 2 - Erster Teil.md",
     "Studienweg Deutsch 2/Hoertext/L13/115 L13 Vokabeln-Woerter.mp3",
@@ -217,10 +217,9 @@
     "动机.md",
     "Gedächnis Liste.md",
     "Rich Text.md",
-    "Tagebuch/26.Jan..md",
+    "Tagesbuch/26.Jan..md",
     "Studienweg Deutsch 2/Lektion 9.md",
     "Studienweg Deutsch 2/Lektion 10.md",
-    "Standard.md",
     "港科广.md",
     "Studienweg Deutsch 2/Lektion 8.md",
     "Passwort Deutsch 2/Lektion 11.md",
