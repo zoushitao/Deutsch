@@ -28,6 +28,36 @@
 | <font color="#ff0000">der</font> Konsum                                      | consumption            |           |
 | insgesamt                                       | adv. overall, in total |           |
 ![[102 L12 Vokabeln-T1.mp3]]
+
+### Vier Leute, zwei Fernseher
+
+- Vater: Was gibt's denn heute im Fernsehen ?
+- Tochter: Im Zweiten läuft *Sperling und das Krokodil im Müll*.
+- Vater: Was ist denn das?
+- Tochter: Ein Krimi.
+- Vater: Hm. Und sonst kommt nichts Interessantes?
+- Mutter: *RTL* bringt einen Thriller, *Quarantäne* mit Nastassja Kinski, bestimmt spannend.
+- Vater: Die Kinski ist toll. Aber nach einem Thriller kann ich nicht schlafen.
+- Mutter: Schade. In der Vorschau ist das heute der Topfilm.
+- Sohn: Ich schau mir in einem Fernseher *Asterix-Operation Hinkelstein* an. Das wird lustig.
+- Tochter: Du mit deinen Comics! Das ist für kleine Kinder. Außerdem ist es nicht dein Fernseher, sondern unser Fernseher. Ich will den Film mit dem Reeves sehen.
+- Vater: Welchen Film?
+- Tochter: *Dem Himmel so nah* heißt er, ein Liebesfilm.
+- Vater: Merkst du, Karin, unsere Tochter wird romantisch? Aber der Titel klingt gut.
+- Mutter: Ja, nicht schlecht, aber der Film dauert zu lange. Um zehn müssen die Kinder ins Bett.
+- Vater: Na ja, heute ist Samstag.
+- Sohn: Und ich muss unbedingt noch das Sportstudio sehen.
+- Vater: die Bundeslifaergebnisse kommen schon am Ende der Tagesschau.
+- Sohn: Die Tagesschau will ich aber nicht gucken. In Sat. 1. kommt da *Enterprise* und das dauert bis 20.15 Uhr.
+- Vater: Die Nachrichten werden angeschaut! Man muss sich informieren, um mitreden zu können.
+- Sohn: Bei uns ist in der Schule reden alle von der Bundesliga und von *Enterprise*.
+- Mutter: Ach, heute ist ja auch wieder *Menschen Markus*, um 22.50 Uhr. Die Show ist meistens ziemlich witzig.
+- 
+
+
+![[097 L12 T1 Vier Leute, zwei Fernseher.mp3]]
+
+
 ## Text 2
 
 
@@ -87,37 +117,37 @@ Die rund zwei Dutzend Privatsender dagegen brauchen Werbung, um sich zu finanzie
 
 ## Text 3
 
-| DEUTSCH                                                  | ENGLISCH                  | INFO           |
-| -------------------------------------------------------- | ------------------------- | -------------- |
-| passiv                                                   | adj. passive              |                |
-| <font color="#0070c0">die </font> Schulklasse, -n                                      | school class              |                |
-| stumm                                                    | adj. mute,dumb            |                |
-| <font color="#ff0000">der</font> Akademiker, -                                        | graduate                  |                |
-| <font color="#ff0000">der</font> / <font color="#0070c0">die </font> Intellektuelle                                 | the intellectual          | Dekl. wie Adj. |
-| <font color="#0070c0">die </font> Glotze, -n                                           | tv set                    |                |
-| <font color="#0070c0">die </font> Realität                                             | reality                   |                |
-| wieder/geben, gibt wieder, gab wieder, hat wiedergegeben | to return                 |                |
-| gedankenlos                                              | thoughtless               |                |
-| <font color="#ff0000">der</font> Konsument, -en,-en                                   | consumer                  |                |
-| <font color="#0070c0">die </font> These, -n                                            | thesis                    |                |
-| zitieren                                                 | to cite                   | +Akku.         |
-| <font color="#0070c0">die </font> Studie, -n                                           | study result              |                |
-| schulisch                                                | adj. educational          |                |
-| ängstlich                                                | adj. fearful, afraid      |                |
-| bestätigen                                               | to confirm                | +Akku.         |
-| schuld sein an +Akku.                                    | to be guilt for sth.      |                |
-| aus/wählen                                               | to select                 | +Akku.         |
-| vor/schlagen, schlägt vor, schlug vor, hat vorschlagen   | to propose, suggest       | (+Dat.)+Akku.  |
-| besprechen, bespricht, besprach, hat besprochen          | to speak of, mention      | +Akku.         |
-| <font color="#ff0000">der</font> Experte, -n,-n                                       | expert                    | auf + Akku.    |
-| <font color="#ff0000">der</font> Nachteil, -e                                         | disadvantage              |                |
-| <font color="#ff0000">der</font> Test, -s                                             | test                      |                |
-| beweisen , beweist , bewies, hat bewiesen                | to prove, demonstrate     | (+Dat.)+Akku.  |
-| generell                                                 | adj. general              |                |
-| geistig                                                  | adj. mental, spiritual    |                |
-| <font color="#0070c0">die </font> Funktion, -en                                        | function                  |                |
-| vernünftig                                               | adj. reasonable, sensible |                |
-| <font color="#ff0000">der</font> Gebrauch                                             | use, usage                |                |
+| DEUTSCH                                                                             | ENGLISCH                  | INFO           |
+| ----------------------------------------------------------------------------------- | ------------------------- | -------------- |
+| passiv                                                                              | adj. passive              |                |
+| <font color="#0070c0">die </font> Schulklasse, -n                                   | school class              |                |
+| stumm                                                                               | adj. mute,dumb            |                |
+| <font color="#ff0000">der</font> Akademiker, -                                      | graduate                  |                |
+| <font color="#ff0000">der</font> / <font color="#0070c0">die </font> Intellektuelle | the intellectual          | Dekl. wie Adj. |
+| <font color="#0070c0">die </font> Glotze, -n                                        | tv set                    |                |
+| <font color="#0070c0">die </font> Realität                                          | reality                   |                |
+| wieder/geben, gibt wieder, gab wieder, hat wiedergegeben                            | to return                 |                |
+| gedankenlos                                                                         | thoughtless               |                |
+| <font color="#ff0000">der</font> Konsument, -en,-en                                 | consumer                  |                |
+| <font color="#0070c0">die </font> These, -n                                         | thesis                    |                |
+| zitieren                                                                            | to cite                   | +Akku.         |
+| <font color="#0070c0">die </font> Studie, -n                                        | study result              |                |
+| schulisch                                                                           | adj. educational          |                |
+| ängstlich                                                                           | adj. fearful, afraid      |                |
+| bestätigen                                                                          | to confirm                | +Akku.         |
+| schuld sein an +Akku.                                                               | to be guilt for sth.      |                |
+| aus/wählen                                                                          | to select                 | +Akku.         |
+| vor/schlagen, schlägt vor, schlug vor, hat vorgeschlagen                            | to propose, suggest       | (+Dat.)+Akku.  |
+| besprechen, bespricht, besprach, hat besprochen                                     | to speak of, mention      | +Akku.         |
+| <font color="#ff0000">der</font> Experte, -n,-n                                     | expert                    | auf + Akku.    |
+| <font color="#ff0000">der</font> Nachteil, -e                                       | disadvantage              |                |
+| <font color="#ff0000">der</font> Test, -s                                           | test                      |                |
+| beweisen , beweist , bewies, hat bewiesen                                           | to prove, demonstrate     | (+Dat.)+Akku.  |
+| generell                                                                            | adj. general              |                |
+| geistig                                                                             | adj. mental, spiritual    |                |
+| <font color="#0070c0">die </font> Funktion, -en                                     | function                  |                |
+| vernünftig                                                                          | adj. reasonable, sensible |                |
+| <font color="#ff0000">der</font> Gebrauch                                           | use, usage                |                |
 
 ![[104 L12 Vokabeln-T3.mp3]]
 

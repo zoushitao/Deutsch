@@ -1,3 +1,6 @@
+## Text 1
+
+### Vokabeln
 
 | DEUTSCH                       | ENGLISCH          | INFO   |
 | ----------------------------- | ----------------- | ------ |
@@ -54,3 +57,46 @@
 | stinksauer                   | adj. furious            |        |
 | der Spruch, Sprüche          | saying, slogan          |        |
 | sammeln                      | to colect               | +Akku. |
+
+![[113 L13 Vokabeln-T2.mp3]]
+
+
+## Text 3
+
+| DEUTSCH                | ENGLISCH            | INFO   |
+| ---------------------- | ------------------- | ------ |
+| der Auftrag, -träge    | order, contract     |        |
+| das Intranet, -s       | intranet            |        |
+| die Anlage, -n         | annex, investment   |        |
+| installieren           | to install          | +Akku. |
+| der Stellvertreter, -  | proxy, deputy       |        |
+| notwendig              | adj. necessary      |        |
+| die Angelegenheit, -en | matter, issue, case |        |
+| perfekt                | adj. perfect        |        |
+| die Installation ,-en  | installation        |        |
+| überprüfen             | to check, review    | +Akku. |
+| garantieren            | to garantee         | +Akku. |
+| das Dolmetschbüro      |                     |        |
+| dolmetschen            | to interpret        | +Akku. |
+| der Retter, -          | saver               |        |
+| die Belohnung, -en     | reward, bounty      |        |
+| belohnen               | to reward           |        |
+| verrückt               | adj. crazy          |        |
+| verrückt spielen       | go haywire          |        |
+| lebenswichtig          | vital               |        |
+
+
+![[114 L13 Vokabeln-T3.mp3]]
+
+
+## Wörter
+
+| DEUTSCH        | ENGLISCH            | INFO |
+| -------------- | ------------------- | ---- |
+| der Wind, -e   | wind                |      |
+| der Schultisch | classroom table     |      |
+| vollständig    | adj. full, complete |      |
+
+
+
+![[115 L13 Vokabeln-Woerter.mp3]]

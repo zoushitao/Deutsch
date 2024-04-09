@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4a59576fd331e42",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf"
+              }
+            }
           }
         ]
       }
@@ -192,15 +202,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fb12b0a1847b23d",
+  "active": "2e9dd98303a3fb8a",
   "lastOpenFiles": [
-    "Standard.md",
     "Studienweg Deutsch 2/Lektion 13.md",
+    "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
+    "Studienweg Deutsch 2/Lektion 12.md",
+    "Standard.md",
     "Strange Plural.md",
     "Temp.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Studienweg Deutsch 2/Lektion 12.md",
     "Studienweg Deutsch 2/Lektion 11.md",
     "Tagesbuch/1.Woche_April.md",
     "Deutsch",
@@ -213,7 +224,6 @@
     "Studienweg Deutsch 2/Hoertext/L13/110 L13 T3.2 Ach Gott, Maria!.mp3",
     "Studienweg Deutsch 2/Hoertext/L13/109 L13 T3.1 Help!Help!Help!.mp3",
     "Studienweg Deutsch 2/Hoertext/L13/108 L13 ü11 Intranet in Guangzhou.mp3",
-    "Studienweg Deutsch 2/Hoertext/L13/107 L13 T2 Abk. und Smileys.mp3",
     "动机.md",
     "Gedächnis Liste.md",
     "Rich Text.md",
@@ -229,7 +239,6 @@
     "Studienweg Deutsch 2/Lektion 7.md",
     "Passwort Deutsch 1/Lektion 8.md",
     "Passwort Deutsch 1/Lektion 7.md",
-    "Studienweg Deutsch 2/Lektion 6.md",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]
