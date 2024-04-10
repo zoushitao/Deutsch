@@ -52,7 +52,11 @@
 - Vater: Die Nachrichten werden angeschaut! Man muss sich informieren, um mitreden zu können.
 - Sohn: Bei uns ist in der Schule reden alle von der Bundesliga und von *Enterprise*.
 - Mutter: Ach, heute ist ja auch wieder *Menschen Markus*, um 22.50 Uhr. Die Show ist meistens ziemlich witzig.
-- 
+- Vater: Aber da ist das Sportstudio noch nicht zu Ende.
+- Sohn: Siehst du, ich muss mir doch das Sportstudio angucken. Dann kann Mutti auf meinem Apparat - o.k., auf unserem Apparat - ihre Show anschauen.
+- Mutter: Du, schau mal, um 1.00 Uhr übertägt das *ARD* eine Reportage über China. Du interessiert dich doch für China.
+- Vater: Oh je, das wird wieder ein langer Abend. - Karl, hol mir bitte erst mal ein Bier.
+- Tochter: Und mir eine Milch und ein paar Erdnüsse.
 
 
 ![[097 L12 T1 Vier Leute, zwei Fernseher.mp3]]
