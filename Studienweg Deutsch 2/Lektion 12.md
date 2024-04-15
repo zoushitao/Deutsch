@@ -1,5 +1,7 @@
 ## Text 1
 
+### Vokabeln
+
 | DEUTSCH                                         | ENGLISCH               | INFO      |
 | ----------------------------------------------- | ---------------------- | --------- |
 | an/schalten                                     | to turn up             | +Akku.    |
@@ -47,19 +49,26 @@
 - Mutter: Ja, nicht schlecht, aber der Film dauert zu lange. Um zehn müssen die Kinder ins Bett.
 - Vater: Na ja, heute ist Samstag.
 - Sohn: Und ich muss unbedingt noch das Sportstudio sehen.
-- Vater: die Bundeslifaergebnisse kommen schon am Ende der Tagesschau.
+- Vater: Die Bundesligaergebnisse kommen schon am Ende der Tagesschau.
 - Sohn: Die Tagesschau will ich aber nicht gucken. In Sat. 1. kommt da *Enterprise* und das dauert bis 20.15 Uhr.
 - Vater: Die Nachrichten werden angeschaut! Man muss sich informieren, um mitreden zu können.
-- Sohn: Bei uns ist in der Schule reden alle von der Bundesliga und von *Enterprise*.
+- Sohn: Bei uns in der Schule reden alle von der Bundesliga und von *Enterprise*.
 - Mutter: Ach, heute ist ja auch wieder *Menschen Markus*, um 22.50 Uhr. Die Show ist meistens ziemlich witzig.
 - Vater: Aber da ist das Sportstudio noch nicht zu Ende.
 - Sohn: Siehst du, ich muss mir doch das Sportstudio angucken. Dann kann Mutti auf meinem Apparat - o.k., auf unserem Apparat - ihre Show anschauen.
-- Mutter: Du, schau mal, um 1.00 Uhr übertägt das *ARD* eine Reportage über China. Du interessiert dich doch für China.
+- Mutter: Du, schau mal, um 1.00 Uhr überträgt das *ARD* eine Reportage über China. Du interessiert dich doch für China.
 - Vater: Oh je, das wird wieder ein langer Abend. - Karl, hol mir bitte erst mal ein Bier.
 - Tochter: Und mir eine Milch und ein paar Erdnüsse.
 
 
 ![[097 L12 T1 Vier Leute, zwei Fernseher.mp3]]
+
+### Wortschatz
+
+| DEUTSCH                  | ENGLISCH          | INFO |
+| ------------------------ | ----------------- | ---- |
+| die tabellenführung, -en | top of the league |      |
+| günstig                  | adj. cheap        |      |
 
 
 ## Text 2
@@ -117,6 +126,12 @@ Die rund zwei Dutzend Privatsender dagegen brauchen Werbung, um sich zu finanzie
 
 ![[099 L12 T2 Das deutsche Fernsehen.mp3]]
 
+### Wortschatz
+
+> [!tip] bieten, + D + A, jm. etw. gewähren oder geben
+> 1. Dar Fernrehen bietet den Zuschauern die Gelegenheit/Möglichkeit, sich zu bilden, die Welt näher kennen zu lernen.
+> 2. Der Club bietet den Jugendlichen viele Freizeitmöglichkeiten.
+> 3. Her Fischer hat einem jungen Mann ein Zuhause geboten.
 
 
 ## Text 3

@@ -264,27 +264,28 @@ Heuet ist der Hörsaal voll, fast kein Platz ist mehr frei. Da ruft Ana laut:" -
 
 ### Vokabeln
 
-| DEUTSCH                                                       | ENGLISCH                | INFO          |
-| ------------------------------------------------------------- | ----------------------- | ------------- |
-| <font color="#00b050">das</font> Wunder, -                                                 | won<font color="#ff0000">der</font>                  |               |
-| sich auf/regen                                                | to upset, excite        | + über Akku.  |
-| sich verabreden                                               | to arrange              | +mit          |
-| unternehmen, unternimmt, unternahm,unternohmen                | to undetake, do         | +Akku.        |
-| <font color="#ff0000">der</font> Stau, -s                                                  | traffic jam             |               |
-| unordentlich                                                  | adj. untidy             |               |
-| <font color="#0070c0">die </font> Tugend, -en                                               | virtue                  |               |
-| bereit                                                        | adj. ready              |               |
-| <font color="#0070c0">die </font> Aufregung, -en                                            | excitement              |               |
-| charmant                                                      | charming                |               |
-| auf/halten, hält auf, hielt auf, hat aufgehalten              | to stop, delay, hold up | +Akku.(+Dat.) |
-| runter/fallen, fällt runter, fielt runter, ist runtergefallen | to come off             |               |
-| runter                                                        | adv. down               |               |
-| auf/heben                                                     | to pick up              | +Akku.        |
-| <font color="#ff0000">der</font> Ruf, -e                                                   | reputation              |               |
-| bescheiden                                                    | adj. modest             |               |
-| zuverlässig                                                   | adj. reliable           |               |
-| <font color="#ff0000">der</font> Ärger                                                     | anger 😡                |               |
+| DEUTSCH                                                       | ENGLISCH                            | INFO          |
+| ------------------------------------------------------------- | ----------------------------------- | ------------- |
+| <font color="#00b050">das</font> Wunder, -                    | won<font color="#ff0000">der</font> |               |
+| sich auf/regen                                                | to upset, excite                    | + über Akku.  |
+| sich verabreden                                               | to arrange                          | +mit          |
+| unternehmen, unternimmt, unternahm,unternohmen                | to undetake, do                     | +Akku.        |
+| <font color="#ff0000">der</font> Stau, -s                     | traffic jam                         |               |
+| unordentlich                                                  | adj. untidy                         |               |
+| <font color="#0070c0">die </font> Tugend, -en                 | virtue                              |               |
+| bereit                                                        | adj. ready                          |               |
+| <font color="#0070c0">die </font> Aufregung, -en              | excitement                          |               |
+| charmant                                                      | adj. charming                       |               |
+| auf/halten, hält auf, hielt auf, hat aufgehalten              | to stop, delay, hold up             | +Akku.(+Dat.) |
+| runter/fallen, fällt runter, fielt runter, ist runtergefallen | to come off                         |               |
+| runter                                                        | adv. down                           |               |
+| auf/heben                                                     | to pick up                          | +Akku.        |
+| <font color="#ff0000">der</font> Ruf, -e                      | reputation                          |               |
+| bescheiden                                                    | adj. modest                         |               |
+| zuverlässig                                                   | adj. reliable                       |               |
+| <font color="#ff0000">der</font> Ärger                        | anger 😡                            |               |
 
+![[095 L11 Vokabeln-T3.mp3]]
 ### Typisch Thomas !
 
 Li Tao: Hallo, Thomas, was machst du denn noch hier? Du wolltest doch mit Yang Fang schwimmen gehen?
@@ -324,39 +325,42 @@ Thomas: Aber wenn ich mit Yang Fang keinen Ärger mehr bekommen will, muss ich a
 
 ### Wortschatz
 
-#### verabreden
- **mit jm. + A**, mit jm. etw. vereinbaren
-- Anna hat mit ihrem Freund Peter verabredet, dass Ana ma Sonntags zu Peters Eltern zu Besuch kommt. Einige Studenten haben einen Ausflug in die Westberge verabredet, (eine Reise, einen Kinobesuch, ein Treffen ...)
+> [!note] **mit jm. + A**, mit jm. etw. vereinbaren
+> Anna hat mit ihrem Freund Peter verabredet, dass Ana ma Sonntags zu Peters Eltern zu Besuch kommt. Einige Studenten haben einen Ausflug in die Westberge verabredet, (eine Reise, einen Kinobesuch, ein Treffen ...)
 
-**sich mit jm. verabreden**: ein Treffen beschließen, um etwas Gemeinsames zu tun
-- Dei Mädchen haben sich am Badesee verabredet. (nach Deutschland, mi Restaurant, ins Museum . . . )
 
-#### aufregen
+> [!tip] **sich mit jm. verabreden**: ein Treffen beschließen, um etwas Gemeinsames zu tun
+> Die Mädchen haben sich am Badesee verabredet. (nach Deutschland, mi Restaurant, ins Museum . . . )
 
- **jn.** in heftige Gemütsbewegung versetzen oder in Wut geraten
-- Der Krimifilm hat sie schrecklich aufgeregt.
-- Am Semesteranfang muss man die Schulgebühr bezahlen. Gestern hat Xiao alles Geld verloren. Das hat sie sehr aufgeregt.
 
-**sich über ja. / etw . aufregen**,
-- Dei Eltern regen sich sehr über die schlechten Noten ihres Sohnes auf.
+> [!note] **aufregen**, jn. in heftige Gemütsbewegung versetzen oder in Wut geraten
+> - Der Krimifilm hat sie schrecklich aufgeregt.
+> - Am Semesteranfang muss man die Schulgebühr bezahlen. Gestern hat Xiao alles Geld verloren. Das hat sie sehr aufgeregt.
+
+> [!tip] sich über ja. / ewt . aufregen,
+> Die Eltern regen sich sehr über die schlechten Noten ihres Sohnes auf.
+
+| DEUTSCH              | ENGLISCH    | INFO |
+| -------------------- | ----------- | ---- |
+| die Schulgebühr, -en | school fees |      |
 
 ## Wörter
 
 ### Vokabeln
 
 
-| DEUTSCH                                       | ENGLISCH                  | INFO        |
-| --------------------------------------------- | ------------------------- | ----------- |
-| <font color="#548dd4">die</font> Anrede, -n                                | address, title , salution |             |
-| <font color="#ff0000">der</font> Bibliothekar, -e                          | librarian                 |             |
-| gebrauchen                                    | to use, utilize           |             |
-| <font color="#00b050">das</font> Lebensjahr, -e                            | years of one's life       |             |
-| <font color="#ff0000">der</font> Arbeitsplatz, -plätze                     | work position             |             |
-| gelten, gilt, galt, hat gegolten              | to be effective           |             |
-| formell                                       | adj. formal               |             |
-| ungebräuchlich                                | adj. uncommonly used      |             |
-| an/stoßen, stößt an, stieß an, hat angestoßen | toast                     | auf + Akku. |
-| <font color="#ff0000">der</font> Mitarbeiter, -                            | coworker                  |             |
+| DEUTSCH                                                | ENGLISCH                  | INFO        |
+| ------------------------------------------------------ | ------------------------- | ----------- |
+| <font color="#548dd4">die</font> Anrede, -n            | address, title , salution |             |
+| <font color="#ff0000">der</font> Bibliothekar, -e      | librarian                 |             |
+| gebrauchen                                             | to use, utilize           |             |
+| <font color="#00b050">das</font> Lebensjahr, -e        | years of one's life       |             |
+| <font color="#ff0000">der</font> Arbeitsplatz, -plätze | work position             |             |
+| gelten, gilt, galt, hat gegolten                       | to be effective           |             |
+| formell                                                | adj. formal               |             |
+| ungebräuchlich                                         | adj. uncommonly used      |             |
+| an/stoßen, stößt an, stieß an, hat angestoßen          | toast                     | auf + Akku. |
+| <font color="#ff0000">der</font> Mitarbeiter, -        | coworker                  |             |
 
 ![[096 L11 Vokabeln-Woerter.mp3]]
 ### Per *Sie* oder per *du*
