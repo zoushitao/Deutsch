@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 12.md",
+                "file": "Woeter/Essen.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae681ff70754b6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Standard.md",
+                "file": "Studienweg Deutsch 2/Lektion 12.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,14 +47,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Tagesbuch/1.Woche_April.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "file": "Woeter/Essen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "file": "Woeter/Essen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md"
+                "file": "Woeter/Essen.md"
               }
             }
           },
@@ -215,17 +202,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4a59576fd331e42",
+  "active": "2e9dd98303a3fb8a",
   "lastOpenFiles": [
-    "Standard.md",
+    "Woeter/德福新机考必备6000词.pdf",
     "Studienweg Deutsch 2/Lektion 13.md",
-    "Studienweg Deutsch 2/Hoertext/L12/098 L12 ü5 Das kam im Fernsehen..mp3",
-    "Studienweg Deutsch 2/Lektion 11.md",
+    "Woeter/Essen.md",
+    "Tagesbuch/1.Woche_April.md",
+    "Untitled.md",
     "Studienweg Deutsch 2/Lektion 12.md",
     "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
+    "Standard.md",
+    "Studienweg Deutsch 2/Hoertext/L12/098 L12 ü5 Das kam im Fernsehen..mp3",
+    "Studienweg Deutsch 2/Lektion 11.md",
     "README.md",
-    "Untitled.md",
-    "Tagesbuch/1.Woche_April.md",
     "Strange Plural.md",
     "Temp.md",
     "Untitled 1.md",
@@ -251,7 +240,6 @@
     "Studienweg Deutsch 2/Lektion 2.md",
     "Studienweg Deutsch 2/Lektion 1.md",
     "Studienweg Deutsch 2/Lektion 7.md",
-    "Passwort Deutsch 1/Lektion 8.md",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]

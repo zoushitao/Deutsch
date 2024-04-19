@@ -134,6 +134,15 @@ Die rund zwei Dutzend Privatsender dagegen brauchen Werbung, um sich zu finanzie
 > 3. Her Fischer hat einem jungen Mann ein Zuhause geboten.
 
 
+> [!note] beherrschen
+> **über etw. /jn. herrschen**
+> Vor drei Jahren hat die VW-Automobilfabrik den Automarkt beherrscht.(das Land, das Volk, ... ) 
+> Die chinesische Mannschaft hat heute von Anfang na ihre Gegner beherrscht.
+> **mit etw. völlig vertraut sein und es anwenden können**
+> Der junge Mann beherrscht zwei Fremdsprachen.
+
+
+
 ## Text 3
 
 | DEUTSCH                                                                             | ENGLISCH                  | INFO           |
