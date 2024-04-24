@@ -56,6 +56,10 @@ Oder hässlicher? Ist früher vielleicht besser geschrieben worden, als man noch
 
 
 ![[106 L13 T1 Von Feder und Pinsel zum Simsalabim des Simsens.mp3]]
+
+
+
+
 ## Text 2
 
 | DEUTSCH                                                                                 | ENGLISCH                | INFO   |

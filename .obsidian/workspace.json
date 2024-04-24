@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woeter/Essen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a59576fd331e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studienweg Deutsch 2/Lektion 12.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,11 +33,9 @@
             "id": "e8f83f2db3d6e9dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tagesbuch/1.Woche_April.md",
-                "mode": "source",
-                "source": false
+                "file": "Woeter/德福新机考必备6000词.pdf"
               }
             }
           }
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woeter/Essen.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Woeter/Essen.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Woeter/Essen.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -204,17 +190,20 @@
   },
   "active": "2e9dd98303a3fb8a",
   "lastOpenFiles": [
-    "Woeter/德福新机考必备6000词.pdf",
-    "Studienweg Deutsch 2/Lektion 13.md",
-    "Woeter/Essen.md",
-    "Tagesbuch/1.Woche_April.md",
+    "Standard.md",
     "Untitled.md",
+    "README.md",
+    "Woeter/Apr 19 2024.md",
+    "Tagesbuch/Jan 26.md",
+    "Tagesbuch/April 4-30.md",
+    "2024-04-24.md",
+    "Studienweg Deutsch 2/Lektion 13.md",
     "Studienweg Deutsch 2/Lektion 12.md",
     "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
-    "Standard.md",
+    "Woeter/德福新机考必备6000词.pdf",
+    "Woeter/Essen.md",
     "Studienweg Deutsch 2/Hoertext/L12/098 L12 ü5 Das kam im Fernsehen..mp3",
     "Studienweg Deutsch 2/Lektion 11.md",
-    "README.md",
     "Strange Plural.md",
     "Temp.md",
     "Untitled 1.md",
@@ -226,11 +215,9 @@
     "Studienweg Deutsch 2/Hoertext/L13/112 L13 Vokabeln-T1.mp3",
     "Studienweg Deutsch 2/Hoertext/L13/111 L13 ü14 Und so klingt das am Telefon.mp3",
     "Studienweg Deutsch 2/Hoertext/L13/110 L13 T3.2 Ach Gott, Maria!.mp3",
-    "Studienweg Deutsch 2/Hoertext/L13/109 L13 T3.1 Help!Help!Help!.mp3",
     "动机.md",
     "Gedächnis Liste.md",
     "Rich Text.md",
-    "Tagesbuch/26.Jan..md",
     "Studienweg Deutsch 2/Lektion 9.md",
     "Studienweg Deutsch 2/Lektion 10.md",
     "港科广.md",
@@ -239,7 +226,6 @@
     "Studienweg Deutsch 1/Lektion 11.md",
     "Studienweg Deutsch 2/Lektion 2.md",
     "Studienweg Deutsch 2/Lektion 1.md",
-    "Studienweg Deutsch 2/Lektion 7.md",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]

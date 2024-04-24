@@ -118,11 +118,11 @@
 
 Weit vor Internet, Zeitung und Buch ist das Fernsehen in Deutschland das Medium Nummer 1. Drei Stunden und 40 Minuten am Tag verbringt der Durchschnittsbürger über 14 Jahre vor dem Fernsehapparat, 44 Minuten ist er im Internet, 40 Minuten liest er Zeitungen oder Zeitschriften, 25 Minuten Bücher. Nur das Radio läuft in deutschen Haushalten etwa ebenso lange wie der Fernseher. Man sieht fern, um sich zu informieren, um sich zu bilden und um sich zu unterhalten, oft aber auch nur aus Gewohnheit. Man schaltet an, um abzuschalten, und vergisst auszuschalten.
 
-Um das Neueste vom Tage zu erfahren, schaltet man meistens das 1., das 2. oder das 3. Programm ein. Das sind die Öffentlich-rechtlichen Sender. Vertreter der Parteien, Gewerkschaften und Kirchen kontrollieren den Inhalt der Sendungen und sorgen für politisches Gleichgewicht und ein gewisses Niveau.
+Um das Neueste vom Tage zu erfahren, schaltet man meistens das 1., das 2. oder das 3. Programm ein. Das sind die Öffentlich-rechtlichen Sender. Vertreter der Parteien, Gewerkschaften und Kirchen kontrollieren den Inhalt der Sendungen und sorgen<mark style="background: #BBFABBA6;"> für politisches Gleichgewicht und ein gewisses Niveau.</mark>
 
 Etwas Besonderes ist der deutsch-französische Gemeinschaftssender **arte**. Er bietet vor allem Kultur: Dokumentationen, Reportagen und Magazine, Konzerte, Opern, Theateraufführungen und anspruchsvolle Filme. In arte wird nicht geworben.
 
-Die rund zwei Dutzend Privatsender dagegen brauchen Werbung, um sich zu finanzieren. Und um Werbeaufträge zu bekommen, brauchen sie viele Zuschauer. Daher beherrschen hier leichte Unterhaltung, Quiz- und Sportsendungen, Fernsehserien, Krimis, Action-, Horror- und Erotikfilme das Programm.
+Die rund zwei Dutzend Privatsender dagegen brauchen Werbung, um sich zu finanzieren. Und um Werbeaufträge zu bekommen, brauchen sie viele Zuschauer. <mark style="background: #D2B3FFA6;">Daher beherrschen hier leichte Unterhaltung, Quiz- und Sportsendungen, Fernsehserien, Krimis, Action-, Horror- und Erotikfilme das Programm.</mark>
 
 ![[099 L12 T2 Das deutsche Fernsehen.mp3]]
 
@@ -208,3 +208,67 @@ Bei richtigem Gebrauch, so glauben die meisten Medienexperten, hat das Fernsehen
 | <font color="#00b050">das</font> Diktat, -e               | dictation               |               |
 | <font color="#00b050">das</font> Hörverständnis, -se      | listening comprehension |               |
 | senden, sendet, sandte/sendete, hat gesendet/ hat gesandt | to send                 | +Akku.        |
+
+### G1 : Die Infinitivgruppe mit *um ... zu
+Der Infinitiv mit um zu ist eine Angabe und bezeichnet den Zweck (FfJ) oder die Absicht (/1). Er antwortet auf die Frage warum, bei starker Betonung auch auf die Frage wozu.
+
+Das „logische" Subjekt der um-zu-Gruppe muss mit dem Subjekt des Hauptsatzes identisch sein. Um-zu词组的逻辑主语应和全句的主语一致。
+
+- Um das Neuste von Tag zu erfahren, schaue ich täglich ins Internet.
+
+### G2 : Das Passiv (1): Präsens und Präteritum
+Von Intellektuellen **wird** das Fernsehen oft abgelehnt. Sie sagen, der Zuschauer **wird** nicht wirklich informiert und unterhalten, sondern zu einem passiven Konsumenten gemacht. Wenn das Medium Fernsehen jedoch klug und richtig **verwendet wird**, so meinen Medienforscher, hat es mehr Vor- als Nachteile. Nur **wird** oft zu wenig daran gedacht, dass man den Apparat auch abschalten kann.
+
+#### 1. Formen
+
+|           | werden        |                        | Partizip II  |
+| --------- | ------------- | ---------------------- | ------------ |
+| Ich       | werde/wurde   | von der Tagesschau gut | informiert.  |
+|           | Wirst/Wurdest | du beim Fernsehen auch | unterhalten? |
+| Er/Sii/Es | wird/wurde    | um 20.15 Uhr           | gesendet.    |
+| Wir       | werden/wurden | nicht passiv           | gemacht.     |
+|           | Werdet/Wurdet | ihr über alles         | informiert?  |
+|           | Werden/Wurden | Sie zu der Talkshow    | eingeladen.  |
+| Sie       | werden/wurden | in *arte*              | gebracht.    |
+
+#### 2.Gebrauch: Aktiv <-> Passiv
+
+
+| Aktiv                                                     | Passiv                                                                                                 |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Herr Schäfer schaltet den Fernseher ab.                   | Der Fernseher wird abgeschaltet.                                                                       |
+| Der Akteur steht im Mittelpunkt.                          | Die Aktion steht im Mittelpunkt.                                                                       |
+| Man bringt viele Sportsendungen.                          | Viele Sportsendungen werden gebracht.                                                                  |
+| Ein Moderator fragte die Gäste.                           | Die Gäste wurden gefragt. / Die Gäste wurden <font color="#ff0000">von</font> einem Moderator gefragt. |
+| Das viele Fernsehen macht die Kinder nervös.              | Die Kinder wurden durch das Viele Fernsehen nervös gemacht.                                            |
+| Man bat im Interview den Politiker um eine Klare Antwort. | Der Politiker wurde im Interview um eine klare Antwort gebeten.                                        |
+
+Im Passiv hat man die Möglichkeit, eine Handlung oder eine Aktion zu beschreiben, ohne den Akteur (den Täter) zu nennen. Oft wird der Akteur nicht genannt, weil er nicht bekannt ist (wie im Satz a), oder weil er nicht interessant / wichtig ist (b). Ist der Akteur wichtig, so wird er meistens mit der Präposition von (c) oder (seltener) mit der Präposition durch (d) eingeführt.
+
+Die Akkusativergänzung im Aktivsatz wird im Passivsatz Subjektergänzung. Die eigentliche Subjektergänzung/Der Akteur des Aktivsatzes wird weggelassen oder mit von/ durch eingeführt.
+
+Außer Subjekt- und Akkusativergänzung gehen alle anderen Ergänzungen und Angaben unverändert in den Passivsatz ein (e).
+
+Die meisten Verben mit Akkusativerganzung sind passivfähig（可构成被动态）.
+
+### G3: Das Passiv(2): Das unpersönliche Passiv
+
+
+| Aktiv                        | Passiv                                                             |
+| ---------------------------- | ------------------------------------------------------------------ |
+| Wir helfen ihm.              | Ihm wird geholfen./Es wird ihm geholfen.                           |
+| Man diskutiert viel darüber. | Darüber wird viel diskutiert./Es wird darüber viel diskutiert.     |
+| Man arbeitet gestern lange.  | Gestern wurde lange gearbeitet./Es wurde gestern lange gearbeitet. |
+Wenn man mit Verben ohne Akkusativergänzung Passivsätze bildet, so haben diese keine Subjekterganzung Man spricht von unpersonlichem Passiv（无人称被动态）.
+
+Bei solchen Passivsätzen steht das Verb immer in der 3. Person Singular.
+
+Wenn das Vorfeld eines Aussagesatzes von keiner Ergänzung oder Angabe besetzt ist, dann muss der Platzhalter es（占位词）stehen.
+
+
+| A                   | B    | C                           | D     |
+| ------------------- | ---- | --------------------------- | ----- |
+| Ihm                 | wird | von allen geholfen.         |       |
+| Es                  | wird | ihm von allen geholfen.     |       |
+|                     | Wird | ihm von allen geholfen?     |       |
+| Es ist erfolgreich, |      | weil ihm von allen geholfen | wird. |

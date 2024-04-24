@@ -1,4 +1,4 @@
-
+## 2024-04-24
 1. In diesem Punkt kann ich Ihnen nicht zustimmen.
 2. Ihre Bewerbung für diese Stelle war erfolgreich.
 3. Seine Worte haben sich mir tief ins Herz eingeprägt.
@@ -6,7 +6,7 @@
 5. Er hat den Auftrag zu unserer vollsten Zufriedenheit ausgeführt.
 
 ______
-
+## 
 1. Er ist seinem Bruder sehr ähnlich.
 2. Eltern kuscheln gern mit ihren Neugeborenen.
 
@@ -40,10 +40,12 @@ _____
 
 _____
 
-| DEUTSCH       | ENGLISCH | INFO |
-| ------------- | -------- | ---- |
-| das Zeitalter | age      |      |
-|               |          |      |
-|               |          |      |
+| DEUTSCH       | ENGLISCH        | INFO |
+| ------------- | --------------- | ---- |
+| das Zeitalter | age             |      |
+| vernünftig    | adj. reasonable |      |
+
 
 1. Unser Zeitalter ist gekennzeichnet durch technologische Entwicklungen.
+2. Es war ein vernünftiger Vorschlag, deshalb haben wir ihn angenommen.
+
