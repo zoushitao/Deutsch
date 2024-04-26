@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Studienweg Deutsch 2/Lektion 13.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "e28f101ae3c61d65",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf"
+                "file": "Woeter/Ähnliche_Wörter/B.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -39,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Woeter/Ähnliche_Wörter/B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Woeter/Ähnliche_Wörter/B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Woeter/Ähnliche_Wörter/B.md"
               }
             }
           },
@@ -188,20 +191,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e9dd98303a3fb8a",
+  "active": "e28f101ae3c61d65",
   "lastOpenFiles": [
+    "Studienweg Deutsch 2/Lektion 13.md",
+    "Woeter/Ähnliche_Wörter/B.md",
+    "Studienweg Deutsch 2/Lektion 12.md",
+    "Tagesbuch/April 1.Woche.md",
+    "Tagesbuch/April 4.Woche.md",
+    "Tagesbuch/Jan 2.Woche.md",
+    "Woeter/Ähnliche_Wörter/A.md",
+    "Woeter/Ähnliche_Wörter",
+    "Woeter/德福新机考必备6000词.pdf",
+    "Woeter/Essen.md",
+    "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
+    "Tagesbuch/April 2024",
     "Standard.md",
     "Untitled.md",
     "README.md",
-    "Woeter/Apr 19 2024.md",
-    "Tagesbuch/Jan 26.md",
-    "Tagesbuch/April 4-30.md",
     "2024-04-24.md",
-    "Studienweg Deutsch 2/Lektion 13.md",
-    "Studienweg Deutsch 2/Lektion 12.md",
-    "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
-    "Woeter/德福新机考必备6000词.pdf",
-    "Woeter/Essen.md",
     "Studienweg Deutsch 2/Hoertext/L12/098 L12 ü5 Das kam im Fernsehen..mp3",
     "Studienweg Deutsch 2/Lektion 11.md",
     "Strange Plural.md",
@@ -213,8 +220,6 @@
     "Studienweg Deutsch 2/Hoertext/L13/114 L13 Vokabeln-T3.mp3",
     "Studienweg Deutsch 2/Hoertext/L13/113 L13 Vokabeln-T2.mp3",
     "Studienweg Deutsch 2/Hoertext/L13/112 L13 Vokabeln-T1.mp3",
-    "Studienweg Deutsch 2/Hoertext/L13/111 L13 ü14 Und so klingt das am Telefon.mp3",
-    "Studienweg Deutsch 2/Hoertext/L13/110 L13 T3.2 Ach Gott, Maria!.mp3",
     "动机.md",
     "Gedächnis Liste.md",
     "Rich Text.md",
@@ -224,8 +229,6 @@
     "Studienweg Deutsch 2/Lektion 8.md",
     "Passwort Deutsch 2/Lektion 11.md",
     "Studienweg Deutsch 1/Lektion 11.md",
-    "Studienweg Deutsch 2/Lektion 2.md",
-    "Studienweg Deutsch 2/Lektion 1.md",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]

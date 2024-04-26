@@ -136,6 +136,4 @@ Oder hässlicher? Ist früher vielleicht besser geschrieben worden, als man noch
 | <font color="#ff0000">der</font> Schultisch | classroom table     |      |
 | vollständig    | adj. full, complete |      |
 
-
-
 ![[115 L13 Vokabeln-Woerter.mp3]]

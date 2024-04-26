@@ -78,6 +78,7 @@ _____
 2.   Staub hat sich in der Lunge abgelagert.
 3. Man kann ein weinendes Kind mit einem Spielzeug leicht ablenken.
 
+_____
 
 | Deutsch                                    | Englisch           |
 | ------------------------------------------ | ------------------ |
@@ -121,8 +122,68 @@ _________
 _____
 
 
-| Deutsch              | Englisch   |
-| -------------------- | ---------- |
-| das Aquarium, - rien | aquarium   |
-| der Studienanfänger  | freshman   |
-| der Abgänger, -      | to express |
+| Deutsch                       | Englisch   |
+| ----------------------------- | ---------- |
+| das Aquarium, - rien          | aquarium   |
+| das Äquival<u>e</u>nt, -e     | equivalent |
+| der Äq<u>ua</u>tor (nur Sing) | equator    |
+
+______
+
+
+| Deutsch       | Englisch             |
+| ------------- | -------------------- |
+| aus/scheiden  | to resign, drop out  |
+| aus/schneiden | to cut               |
+| aus/schließen | to preclude, exclude |
+| aus/schalten  | to turn off          |
+
+1. Ich bin letztes Jahr aus der Kampagne{die, -n} ausgeschieden. {*I resigned from the campaign last year.*}
+2. Sie musste wegen einer Verletzung aus dem Rennen ausscheiden.{*She had to drop out of the race due to an injury.*}
+3. Der Schüler wurde vom Unterricht ausgeschlossen.{ The student was expelled from class.}
+
+
+______
+
+| Deutsch     | Englisch                      |
+| ----------- | ----------------------------- |
+| an/schaffen | to purchase, require          |
+| ab/schaffen | to abolish, abandon, abrogate |
+
+1. Er will Möbel für sein neues Büro anschaffen
+2. Das Unternehmen hat zwei der vier Hierarchieebenen abgeschafft.
+
+> [!error] schaffen !
+> Verb 1: to accomplish, nail : schaffen, schafft, schuf ,hat geschaffen
+> Verb 2: to create , schafft, schaffte , hat geschafft 
+
+______
+
+
+| Deutsch                                              | Englisch          |
+| ---------------------------------------------------- | ----------------- |
+| <font color="#ff0000">der</font> Aufschwung, -wünge  | uprising, revival |
+| <font color="#ff0000">der</font> Ursprung, Ursprünge | origin            |
+
+1. Der wirtschaftliche Aufschwung hat neue Arbeitsplätze geschaffen.
+2. Das Wort ist griechischen Ursprungs.
+
+______
+
+
+| Deutsch                                      | Englisch  |
+| -------------------------------------------- | --------- |
+| <font color="#ff0000">der</font> Arm, Arme   | arm       |
+| arm                                          | adj. poor |
+| <font color="#ff0000">der </font>Lärm        | noise     |
+| <font color="#ff0000">der</font> Raum, Räume | area      |
+
+______
+
+
+| Deutsch         | Englisch             |
+| --------------- | -------------------- |
+| die Aufgabe, -n | homework             |
+| die Angabe, -n  | indication           |
+| die Ausgabe, -n | expense, expenditure |
+| die Abgabe, -n  | levy                 |
