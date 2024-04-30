@@ -24,13 +24,14 @@ _________
 | rauben                | to rob           |
 _______
 
-| Englisch    | Deutsch          |
-| ----------- | ---------------- |
-| belegen     | to occupy, prove |
-| bei/bringen | to exploit, prey |
+| Englisch    | Deutsch           |
+| ----------- | ----------------- |
+| belegen     | prove             |
+| bei/bringen | to teach sb. sth. |
 
 1. Mein Vater hat mir das Radfahren beigebracht.{*My father taught me how to ride a bike*.}
-2. Wir legten die Police vor, um unseren Anspruch zu belegen.
+2. Wir legten die Polizei vor, um unseren Anspruch{*der, -sprüche; claim*} zu belegen.{*We presented the policy to prove our claim.*}
+3. Alle Angestellten haben einen Anspruch auf Gesundheitsvorsorge.{*All employees have an entitlement to health care*.}
 
 ______
 
@@ -121,19 +122,46 @@ _____
 | Brüssel  |         |
 | Belgien  |         |
 
-_______
+_________________________________________________
 
 | Englisch                                | Deutsch       |
 | --------------------------------------- | ------------- |
 | befallen, befällt, befiel, hat befallen | to affect     |
 | begabt                                  | adj. talented |
 | begraben                                | to burry      |
+1. Meine Großtante ist letztes Jahr gestorben, und sie haben sie neben ihrem Mann begraben.{  *My great aunt died last year, and they buried her next to her husband.*}
+_________________________________________________
 
-________
+| Englisch        | Deutsch                |
+| --------------- | ---------------------- |
+| bereits         | adv. already           |
+| breit           | adj. broad, wide       |
+| die Breite, -n  | width                  |
+| der Bereich, -e | region                 |
+| vor/bereit      | to prepare             |
+| verbreiten      | to disseminate, spread |
 
-| Englisch        | Deutsch          |
-| --------------- | ---------------- |
-| bereits         | adv. already     |
-| breit           | adj. broad, wide |
-| die Breite, -n  | width            |
-| der Bereich, -e | region           |
+1. Danke für die Einladung, aber wir haben bereits zu Mittag gegessen. {*Thanks for the invitation but we have already eaten lunch.*}
+2. Die Medien werden diese Information überall verbreiten.
+
+_________________________________________________
+
+| Englisch                            | Deutsch            |
+| ----------------------------------- | ------------------ |
+| das Bein, -e                        | leg                |
+| braten, brat, briet, hat gebraten   | adj. broad, wide   |
+| beraten, berät, beriet, hat beraten | to advise, discuss |
+| graben, gräbt, grub, hat gegraben   | to burry           |
+| geraten                             | to turn out        |
+
+1. Die Verkäuferin beantwortete meine Fragen und konnte mich beraten.{*The sales assistant answered my questions and was able to advise me.*}
+2. Ich benutzte eine große Schaufel{*die, shovel*}, um ein tiefes Loch{*das, Löcher; hole*} zu graben. {*I used a large shovel to dig a deep hole.*}
+
+____________________________________________________
+
+| Englisch         | Deutsch           |
+| ---------------- | ----------------- |
+| die Wolke, -n    | cloud             |
+| die Bewölkung    | the form of cloud |
+| das Volk, Völker |                   |
+| die Bevölkerung  | population        |

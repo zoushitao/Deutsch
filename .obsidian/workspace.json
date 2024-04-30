@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "file": "Woeter/Ähnliche_Wörter/B.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/B.md",
+                "file": "Woeter/Ähnliche_Wörter/F und G.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/B.md",
+                "file": "Woeter/Ähnliche_Wörter/F und G.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/B.md",
+                "file": "Woeter/Ähnliche_Wörter/F und G.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/B.md"
+                "file": "Woeter/Ähnliche_Wörter/F und G.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "e28f101ae3c61d65",
   "lastOpenFiles": [
-    "Studienweg Deutsch 2/Lektion 13.md",
     "Woeter/Ähnliche_Wörter/B.md",
+    "Woeter/Ähnliche_Wörter/F und G.md",
+    "Woeter/Ähnliche_Wörter/C und D.md",
+    "Studienweg Deutsch 2/Lektion 13.md",
     "Studienweg Deutsch 2/Lektion 12.md",
     "Tagesbuch/April 1.Woche.md",
     "Tagesbuch/April 4.Woche.md",
@@ -227,8 +229,6 @@
     "Studienweg Deutsch 2/Lektion 10.md",
     "港科广.md",
     "Studienweg Deutsch 2/Lektion 8.md",
-    "Passwort Deutsch 2/Lektion 11.md",
-    "Studienweg Deutsch 1/Lektion 11.md",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]
