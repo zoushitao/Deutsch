@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/F und G.md",
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,9 +35,11 @@
             "id": "e8f83f2db3d6e9dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Woeter/德福新机考必备6000词.pdf"
+                "file": "Tagesbuch/April 4.Woche.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/F und G.md",
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/F und G.md",
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/F und G.md"
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md"
               }
             }
           },
@@ -194,16 +196,18 @@
   "active": "e28f101ae3c61d65",
   "lastOpenFiles": [
     "Woeter/Ähnliche_Wörter/B.md",
+    "Woeter/Ähnliche_Wörter/H,I und K.md",
     "Woeter/Ähnliche_Wörter/F und G.md",
+    "Tagesbuch/April 4.Woche.md",
+    "Tagesbuch/Jan 2.Woche.md",
+    "Woeter/德福新机考必备6000词.pdf",
+    "Studienweg Deutsch 2/Lektion 14.md",
     "Woeter/Ähnliche_Wörter/C und D.md",
     "Studienweg Deutsch 2/Lektion 13.md",
     "Studienweg Deutsch 2/Lektion 12.md",
     "Tagesbuch/April 1.Woche.md",
-    "Tagesbuch/April 4.Woche.md",
-    "Tagesbuch/Jan 2.Woche.md",
     "Woeter/Ähnliche_Wörter/A.md",
     "Woeter/Ähnliche_Wörter",
-    "Woeter/德福新机考必备6000词.pdf",
     "Woeter/Essen.md",
     "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
     "Tagesbuch/April 2024",
@@ -227,8 +231,6 @@
     "Rich Text.md",
     "Studienweg Deutsch 2/Lektion 9.md",
     "Studienweg Deutsch 2/Lektion 10.md",
-    "港科广.md",
-    "Studienweg Deutsch 2/Lektion 8.md",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]
