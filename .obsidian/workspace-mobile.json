@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/F und G.md",
+                "file": "Woeter/Essen.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Woeter/Ähnliche_Wörter/F und G.md",
+            "file": "Woeter/Essen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Woeter/Ähnliche_Wörter/F und G.md",
+            "file": "Woeter/Essen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Woeter/Ähnliche_Wörter/F und G.md"
+            "file": "Woeter/Essen.md"
           }
         }
       },
@@ -154,12 +154,23 @@
   },
   "active": "1c2838e3758d69c4",
   "lastOpenFiles": [
-    "Studienweg Deutsch 2/Lektion 13.md",
-    "Woeter/德福新机考必备6000词.pdf",
     "Woeter/Apr 19 2024.md",
+    "Tagesbuch/April 1.Woche.md",
+    "Tagesbuch/Jan 2.Woche.md",
+    "Tagesbuch/April 4.Woche.md",
+    "Studienweg Deutsch 2/Lektion 14.md",
+    "Woeter/Ähnliche_Wörter/A.md",
+    "Woeter/Ähnliche_Wörter/C und D.md",
+    "Woeter/Ähnliche_Wörter/F und G.md",
+    "Woeter/Ähnliche_Wörter/B.md",
+    "Woeter/Ähnliche_Wörter/H,I und K.md",
+    "Woeter/Ähnliche_Wörter",
+    "2024-04-24.md",
+    "Woeter/德福新机考必备6000词.pdf",
     "Woeter/Essen.md",
     "Studienweg Deutsch 2/Lektion 11.md",
     "Studienweg Deutsch 2/Lektion 10.md",
+    "Studienweg Deutsch 2/Lektion 13.md",
     "Woeter/Wörter.html",
     "Studienweg Deutsch 1/Bilder/Krippe.jpeg",
     "Studienweg Deutsch 2/Hoertext/L1/006 L1 Vokabeln von Text 1.mp3",
@@ -178,7 +189,6 @@
     "Studienweg Deutsch 1/Hoertext/L7/05 L7 T3 Wer fehlt denn ihrem Freund.mp3",
     "Studienweg Deutsch 1/Hoertext/L8/07 L8 V T1.mp3",
     "Studienweg Deutsch 1/Hoertext/L8/03 L8 T2 Methode 3.mp3",
-    "Passwort Deutsch 1/Hoertext/L7/22 L7 Wolfgang ... 2.mp3",
     "Studienweg Deutsch 1/Lektion 11.md",
     "Studienweg Deutsch 2/Bilder/Farben.jpeg",
     "README.md",
@@ -188,15 +198,6 @@
     "Studienweg Deutsch 1/Lektion 7.md",
     "Studienweg Deutsch 1/Lektion 6.md",
     "Studienweg Deutsch 2/Bilder/himmelsrichtung.jpeg",
-    "Studienweg Deutsch 1/Lektion 10.md",
-    "Studienweg Deutsch 1/Lektion 8.md",
-    "Passwort Deutsch 1/Lektion 7.md",
-    "Studienweg Deutsch 2/Lektion 2.md",
-    "Tagesbuch/26.Jan..md",
-    "Tagesbuch/1.Woche_April.md",
-    "QuickNotes/Verben mit Dativ.md",
-    "Tagebuch/26.Jan..md",
-    "Tagebuch/1.Woche_April.md",
     "Studienweg Deutsch 2/Bilder/adjektivdeklination.png",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Untitled.canvas"
