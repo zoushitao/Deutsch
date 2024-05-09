@@ -68,21 +68,21 @@
 
 _____
 
-| Deutsch           | Englisch   |
-| ----------------- | ---------- |
-| ab/legen          | to file    |
-| ab/lagern         | to deposit |
-| von etw ab/lenken | to distact |
+| Deutsch           | Englisch               |
+| ----------------- | ---------------------- |
+| ab/legen          | to file                |
+| ab/lagern         | to deposit, accumulate |
+| von etw ab/lenken | to distact             |
 
 1. Mit der Maus kann ich Dateien einfach ziehen und ablegen.
-2.   Staub hat sich in der Lunge abgelagert.
+2.  Staub hat sich in der Lunge abgelagert.
 3. Man kann ein weinendes Kind mit einem Spielzeug leicht ablenken.
 
 _____
 
 | Deutsch                                    | Englisch           |
 | ------------------------------------------ | ------------------ |
-| ab/biegen, biegt ab, bog ab, ist abgebogen | to file            |
+| ab/biegen, biegt ab, bog ab, ist abgebogen | to turn, stop      |
 | abbilden                                   | to depict, figure  |
 | das Abbild, -er                            | potrray, image     |
 | an/bieten, bietet an, bot an, hat angebot  | to offer, provide  |
@@ -131,18 +131,24 @@ _____
 ______
 
 
-| Deutsch       | Englisch             |
-| ------------- | -------------------- |
-| aus/scheiden  | to resign, drop out  |
-| aus/schneiden | to cut               |
-| aus/schließen | to preclude, exclude |
-| aus/schalten  | to turn off          |
+| Deutsch                                                       | Englisch             |
+| ------------------------------------------------------------- | -------------------- |
+| aus/scheiden, scheidet aus, schied aus, ist ausgeschieden     | to resign, drop out  |
+| aus/schneiden, schneidet aus, schnitt aus, hat ausgeschnitten | to cut               |
+| aus/schließen                                                 | to preclude, exclude |
+| aus/schalten                                                  | to turn off          |
 
-1. Ich bin letztes Jahr aus der Kampagne{die, -n} ausgeschieden. {*I resigned from the campaign last year.*}
+1. Ich <mark style="background: #FFB86CA6;">bin</mark> letztes Jahr aus der Kampagne{die, -n} ausgeschieden. {*resigned from the campaign last year.*}
 2. Sie musste wegen einer Verletzung aus dem Rennen ausscheiden.{*She had to drop out of the race due to an injury.*}
 3. Der Schüler wurde vom Unterricht ausgeschlossen.{ The student was expelled from class.}
 
+Architektur in einem Artikel
 
+```mermaid
+graph TB
+Artikel-->Kapitel-->Abschnitt-->Absatz-->Satz-->Wort-->Buchstabe
+
+```
 ______
 
 | Deutsch     | Englisch                      |

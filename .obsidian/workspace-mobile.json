@@ -13,9 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woeter/Essen.md",
-                "mode": "source",
+                "file": "Woeter/Ähnliche_Wörter/A.md",
+                "mode": "preview",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "cfa60bec72d5fdb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Woeter/Ähnliche_Wörter/B.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "774def8791b556c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studienweg Deutsch 2/Lektion 10.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Woeter/Essen.md",
+            "file": "Woeter/Ähnliche_Wörter/A.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Woeter/Essen.md",
+            "file": "Woeter/Ähnliche_Wörter/A.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Woeter/Essen.md"
+            "file": "Woeter/Ähnliche_Wörter/A.md"
           }
         }
       },
@@ -154,22 +178,22 @@
   },
   "active": "1c2838e3758d69c4",
   "lastOpenFiles": [
+    "Studienweg Deutsch 2/Lektion 10.md",
+    "Woeter/Ähnliche_Wörter/A.md",
+    "Woeter/Ähnliche_Wörter/B.md",
+    "Woeter/Essen.md",
     "Woeter/Apr 19 2024.md",
     "Tagesbuch/April 1.Woche.md",
     "Tagesbuch/Jan 2.Woche.md",
     "Tagesbuch/April 4.Woche.md",
     "Studienweg Deutsch 2/Lektion 14.md",
-    "Woeter/Ähnliche_Wörter/A.md",
     "Woeter/Ähnliche_Wörter/C und D.md",
     "Woeter/Ähnliche_Wörter/F und G.md",
-    "Woeter/Ähnliche_Wörter/B.md",
     "Woeter/Ähnliche_Wörter/H,I und K.md",
     "Woeter/Ähnliche_Wörter",
     "2024-04-24.md",
     "Woeter/德福新机考必备6000词.pdf",
-    "Woeter/Essen.md",
     "Studienweg Deutsch 2/Lektion 11.md",
-    "Studienweg Deutsch 2/Lektion 10.md",
     "Studienweg Deutsch 2/Lektion 13.md",
     "Woeter/Wörter.html",
     "Studienweg Deutsch 1/Bilder/Krippe.jpeg",

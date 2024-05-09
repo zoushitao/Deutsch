@@ -72,6 +72,7 @@ ______
 | jn. um etw(Akku.) bitten | to ask sb. for sth. |
 | bieten                   | to offer, provide   |
 | biegen                   | to turn             |
+| beten                    |                     |
 
 ______
 
