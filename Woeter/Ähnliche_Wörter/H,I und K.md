@@ -40,10 +40,22 @@ __________________________________________
 
 
 
-| Englisch            | Deutsch             |
-| ------------------- | ------------------- |
-| die Idee, -n        | idea                |
-| ideal               | adj. ideal, optimal |
-| der Idiot, -en, -en | idiot               |
-| idiotisch           | adj. idiotic        |
-| exotisch            | adj. exotic         |
+| Englisch                                         | Deutsch             |
+| ------------------------------------------------ | ------------------- |
+| <font color="#0070c0">die</font> Idee, -n                                     | idea                |
+| ideal                                            | adj. ideal, optimal |
+| <font color="#ff0000">der</font> Idiot, -en, -en | idiot               |
+| idiotisch                                        | adj. idiotic        |
+| exotisch                                         | adj. exotic         |
+
+__________________
+
+| Englisch                                      | Deutsch          |
+| --------------------------------------------- | ---------------- |
+| <font color="#ff0000">der</font> Kreis, -e ⭕️ | circle, district |
+| <font color="#0070c0">die</font> Krise, -n    | crisis           |
+| <font color="#0070c0">die</font> Kreativität  | creativity       |
+| <font color="#0070c0">die</font> Kritik, -en                               | critic           |
+
+
+1. Ich verwendete einen Zirkel{der,-;compass}, um einen Kreis zu zeichnen.{ *I used a compass to draw a circle.*}

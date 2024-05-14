@@ -1,4 +1,4 @@
-
+v
 
 | Englisch                    | Deutsch           |
 | --------------------------- | ----------------- |
@@ -131,6 +131,7 @@ _________________________________________________
 | begabt                                  | adj. talented |
 | begraben                                | to burry      |
 1. Meine Großtante ist letztes Jahr gestorben, und sie haben sie neben ihrem Mann begraben.{  *My great aunt died last year, and they buried her next to her husband.*}
+2. Eine Krankheit befällt ihn.
 _________________________________________________
 
 | Englisch        | Deutsch                |

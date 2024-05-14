@@ -33,7 +33,7 @@
 | die Phantas<u>ie</u>, -n                         | fantasy                    |                 |
 | halten                                           | to hold                    |                 |
 | ein Berief hält langer                           |                            |                 |
-| der Akkumul<u>a</u>tor, -en                      | battery                    | der Akku,-s     |
+| der Akkumul<u>a</u>tor, -en, -en                 | battery                    | der Akku,-s     |
 | verlangen                                        | to demand, request         | +Akku./von+Dat. |
 | erwarten                                         | to anticipate, await       | +Akku.          |
 | das Köpfchen, -                                  | little brain               |                 |
@@ -57,7 +57,16 @@
 | sich(Dat.) Zeit nehmen                           | to take time               |                 |
 | herrlich                                         | adj. wonderful, delightful |                 |
 | der Verlag, -läge                                | publisher                  |                 |
+| das Refer<u>a</u>t, -e                           | presentation               |                 |
+| das Matari<u>a</u>l, -ien                        | matarial                   |                 |
+| vergehen, vergeht, verging, ist vergangen        | (time) to pass, vanish     |                 |
+| ab/stellen                                       | to turn off, shut down     | +Akku.          |
+|                                                  |                            |                 |
 
+
+![[123 L14 Vokabeln-T1.mp3]]
+
+1. Diese Arbeit verlangt viel Geduld.
 ### geben
 
 | DEUTSCH   | ENGLISCH            | INFO |

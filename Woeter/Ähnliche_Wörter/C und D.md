@@ -30,17 +30,18 @@ ______________________
 | Englisch                                            | Deutsch                  |
 | --------------------------------------------------- | ------------------------ |
 | ein/greifen                                         | to interfere, encroach   |
-| ergreifen                                           | to grasp, grab           |
+| ergreifen, ergreift, ergriff, hat ergriffen         | to grasp, grab           |
 | <font color="#0070c0">die</font> Einzelheit, -en    | detail                   |
 | einzeln                                             | adj. individual, sperate |
 | <font color="#00b050">das</font> Einzelkind         | single child             |
 | <font color="#00b050">das</font> Einzelgespräch     | personal conversation    |
 | <font color="#ff0000">der</font> Einzelkämpfer, -   | lone fighter             |
 | <font color="#ff0000">der</font> Einzelfall, -fälle | individual case          |
-| der Einzelhandel                                    | retail                   |
-| der Großhandel                                      | wholesale                |
+| <font color="#ff0000">der</font> Einzelhandel       | retail                   |
+| <font color="#ff0000">der</font> Großhandel         | wholesale                |
 | einzig                                              | adj. sole, only          |
 
+1. Das Erlebnis hat tief in sein Leben eingegriffen.
 _________
 
 | Englisch              | Deutsch            |
@@ -74,10 +75,10 @@ _________
 _________
 
 
-| Englisch           | Deutsch       |
-| ------------------ | ------------- |
-| entweder...oder... | either...or   |
-| weder...noch...    | neither...nor |
+| Englisch               | Deutsch       |
+| ---------------------- | ------------- |
+| entweder...oder...     | either...or   |
+| weder{ve:dɐ}...noch... | neither...nor |
 
 1. Sie können entweder mit Kugelschreiber oder mit Bleistift schreiben.
 2. Veganer{*der,-;vegan*} essen weder Fleisch noch Eier.
@@ -91,6 +92,8 @@ ________________
 | an/setzen  | to arange  |
 
 1. Eine Kachel{die, -n} ging kaputt und ich musste sie ersetzen.{*One of the tiles broke and I had to replace it.*}
+2. Die neuen Mitarbeiter werden im Außendienst eingesetzt.
+3. eine Sitzung für die nächste Woche ansetzen.
 
 
 ______
