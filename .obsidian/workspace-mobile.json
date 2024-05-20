@@ -47,8 +47,12 @@
             "id": "d55fa47919ee81a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tagesbuch/April 1.Woche.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,6 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Tagesbuch/April 1.Woche.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Tagesbuch/April 1.Woche.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -156,7 +162,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Tagesbuch/April 1.Woche.md"
+          }
         }
       },
       {
@@ -183,6 +191,7 @@
   },
   "active": "d55fa47919ee81a7",
   "lastOpenFiles": [
+    "Studienweg Deutsch 2/Lektion 14.md",
     "Woeter/Ähnliche_Wörter/F und G.md",
     "Woeter/Ähnliche_Wörter/C und D.md",
     "Woeter/Ähnliche_Wörter/H,I und K.md",
@@ -194,7 +203,6 @@
     "Tagesbuch/April 1.Woche.md",
     "Tagesbuch/Jan 2.Woche.md",
     "Tagesbuch/April 4.Woche.md",
-    "Studienweg Deutsch 2/Lektion 14.md",
     "Woeter/Ähnliche_Wörter",
     "2024-04-24.md",
     "Woeter/德福新机考必备6000词.pdf",

@@ -1,5 +1,5 @@
 
-##  Text 1
+## 1️⃣ Text 
 
 ### Vokabeln
 
@@ -132,7 +132,7 @@ ___
 1. etw, mit jm. , gemeinsam teilen
 	Frau Müler teilt mit ihrer Freundin, Anna, eine zwei-Zimmer-Wohnung. Frau Muler nimmt das größere Zimmer, Anna das kleinere.
 
-## Text 2
+## 2️⃣ Text 
 
 ### Vokabeln
 
@@ -260,7 +260,7 @@ Was darf ich Ihnen anbieten? Tee oder Kaffee?
 b. jm. , mit etwas helfen
 Heuet ist der Hörsaal voll, fast kein Platz ist mehr frei. Da ruft Ana laut:" -Komm hier, Fritz, ich kann dir einen Stuhl anbieten.
 
-## Text 3
+## 3️⃣ Text 
 
 ### Vokabeln
 
@@ -344,7 +344,7 @@ Thomas: Aber wenn ich mit Yang Fang keinen Ärger mehr bekommen will, muss ich a
 | -------------------- | ----------- | ---- |
 | die Schulgebühr, -en | school fees |      |
 
-## Wörter
+## 📝Wörter
 
 ### Vokabeln
 
@@ -383,7 +383,7 @@ Es gibt manchmal (in der Schule, am Arbeitsplatz) die Anrede Nachname und du, si
 **Die Regeln für die mündliche Anrede gelten auch für die Anrede in Mails und Briefen.**
 
 
-## Grammatik
+## 📖 Grammatik
 
 ### G1 : Das Plusquamperfekt
 
@@ -515,3 +515,7 @@ Es ist wichtig, dem Gastgeber Bescheid zu sagen, ob man die Einladung annimmt.
 > - das Ziel
 
 
+## 📄 Übungen
+
+- Nachdem die Kinder ins Bett gegangen sind, gehen die Eltern in ein Weinlokal und trinken ein Glass Wein.
+- 

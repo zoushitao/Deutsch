@@ -32,12 +32,12 @@ __________________________________________
 | erhitzen                          | to heat, heat up |
 | heizen                            | to heat          |
 | die Heißung                       | heating          |
-| die Zentalheißung                 | central heating  |
+| die Zentralheißung                | central heating  |
 | heiß                              | adj. hot         |
 | heißen, heißt, hieß, hat gehießen | to be called     |
 
 
-
+____________________________
 
 
 | Englisch                                         | Deutsch             |
@@ -55,7 +55,18 @@ __________________
 | <font color="#ff0000">der</font> Kreis, -e ⭕️ | circle, district |
 | <font color="#0070c0">die</font> Krise, -n    | crisis           |
 | <font color="#0070c0">die</font> Kreativität  | creativity       |
-| <font color="#0070c0">die</font> Kritik, -en                               | critic           |
+| <font color="#0070c0">die</font> Kritik, -en  | critic           |
 
 
 1. Ich verwendete einen Zirkel{der,-;compass}, um einen Kreis zu zeichnen.{ *I used a compass to draw a circle.*}
+
+______________
+
+| Englisch                                            | Deutsch           |
+| --------------------------------------------------- | ----------------- |
+| <font color="#0070c0">die</font> Küche, -n          | kitchen, cruisine |
+| <font color="#ff0000">der</font> Koch, Köche 👨‍🍳  | cook              |
+| <font color="#245bdb">die</font> Köchin, -nen 👩‍🍳 | cook              |
+| <font color="#ff0000">der</font> Korb, Körbe        | basket            |
+| <font color="#0070c0">die</font> Kop<u>ie</u>, -n                                | copy              |
+

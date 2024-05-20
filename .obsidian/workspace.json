@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md",
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md",
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md",
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md"
+                "file": "Woeter/Ähnliche_Wörter/H,I und K.md"
               }
             }
           },
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +180,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fb12b0a1847b23d",
+  "active": "e8f83f2db3d6e9dd",
   "lastOpenFiles": [
+    "README.md",
+    "Woeter/Ähnliche_Wörter/H,I und K.md",
+    "Studienweg Deutsch 2/Lektion 11.md",
+    "Studienweg Deutsch 2/Lektion 13.md",
+    "Studienweg Deutsch 2/Lektion 14.md",
+    "Woeter/Ähnliche_Wörter/A.md",
     "Studienweg Deutsch 2/Hoertext/L14/116 L14 ü2 Reden ist silber,Schreiben ist Gold - Ein Interview.mp3",
     "Studienweg Deutsch 2/Hoertext/L14/117 L14 T1.1 Warum geschrieben wird..mp3",
     "Studienweg Deutsch 2/Hoertext/L14/118 L14 T1.2 Schreiben mit Kopf und Koepfchen.mp3",
@@ -193,12 +198,7 @@
     "Studienweg Deutsch 2/Hoertext/L14/123 L14 Vokabeln-T1.mp3",
     "Studienweg Deutsch 2/Hoertext/L14/124 L14 Vokabeln-T2.mp3",
     "Studienweg Deutsch 2/Hoertext/L14/125 L14 Vokabeln-T3.mp3",
-    "Studienweg Deutsch 2/Hoertext/L14/126 L14 Vokabeln-Grammatik.mp3",
-    "Woeter/Ähnliche_Wörter/A.md",
     "Woeter/Ähnliche_Wörter/B.md",
-    "Studienweg Deutsch 2/Lektion 14.md",
-    "Studienweg Deutsch 2/Lektion 13.md",
-    "Woeter/Ähnliche_Wörter/H,I und K.md",
     "Woeter/Ähnliche_Wörter/F und G.md",
     "Tagesbuch/Jan 2.Woche.md",
     "2024-04-24.md",
@@ -209,8 +209,6 @@
     "Woeter/Essen.md",
     "Standard.md",
     "Untitled.md",
-    "README.md",
-    "Studienweg Deutsch 2/Lektion 11.md",
     "Strange Plural.md",
     "Temp.md",
     "Untitled 1.md",
