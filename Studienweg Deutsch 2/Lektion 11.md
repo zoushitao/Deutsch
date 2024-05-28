@@ -344,7 +344,7 @@ Thomas: Aber wenn ich mit Yang Fang keinen Ärger mehr bekommen will, muss ich a
 | -------------------- | ----------- | ---- |
 | die Schulgebühr, -en | school fees |      |
 
-## 📝Wörter
+## 📝 Wörter
 
 ### Vokabeln
 

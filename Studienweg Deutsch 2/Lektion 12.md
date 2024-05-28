@@ -1,4 +1,4 @@
-## Text 1
+## 1️⃣  Text 
 
 ### Vokabeln
 
@@ -71,7 +71,7 @@
 | günstig                  | adj. cheap        |      |
 
 
-## Text 2
+## 2️⃣ Text 
 
 
 | DEUTSCH                                                        | ENGLISCH                                       | INFO          |
@@ -143,7 +143,7 @@ Die rund zwei Dutzend Privatsender dagegen brauchen Werbung, um sich zu finanzie
 
 
 
-## Text 3
+## 3️⃣  Text 
 
 | DEUTSCH                                                                             | ENGLISCH                  | INFO           |
 | ----------------------------------------------------------------------------------- | ------------------------- | -------------- |
@@ -192,14 +192,14 @@ Dass Vielseher häufig ängstlich, nervös und aggressiv sind, bestätigt auch B
 Bei richtigem Gebrauch, so glauben die meisten Medienexperten, hat das Fernsehen mehr Vor- als Nachteile: Es informiert, es unterhält, es bildet. <mark style="background: #FF5582A6;">Die totale Ablehnung des Fernsehens ist kein Zeichen von Intelligenz.</mark>
 
 ![[100 L12 T3 Macht das Fernsehen passiv.mp3]]
-## Wörter
+## 📝 Wörter
 
 | DEUTSCH              | ENGLISCH   | INFO |
 | -------------------- | ---------- | ---- |
 | <font color="#0070c0">die </font> Presse           | press      |      |
 | <font color="#00b050">das</font> Theaterstück ,-e | stage play |      |
 
-## Grammatik
+## 📖 Grammatik
 
 | DEUTSCH                                                   | ENGLISCH                | INFO          |
 | --------------------------------------------------------- | ----------------------- | ------------- |
@@ -272,3 +272,14 @@ Wenn das Vorfeld eines Aussagesatzes von keiner Ergänzung oder Angabe besetzt i
 | Es                  | wird | ihm von allen geholfen.     |       |
 |                     | Wird | ihm von allen geholfen?     |       |
 | Es ist erfolgreich, |      | weil ihm von allen geholfen | wird. |
+
+## 📄 Übungen
+
+### 1. Umformen
+
+1. Zum Verstehen von Zeitungsartikeln braucht man unbedingt ein gutes Wörterbuch. ==> Um Zeitungsartikel verstehen zu können, braucht man unbedingt ein guts Wörterbuch.
+2. Die Mediengruppe traf sich am Montag zur Besprechung einer kleinen Zeitschrift mit Fernsehkritiken. ==> Um eine kleine Zeitschrift mit Fernsehkritiken besprechen zu können, traf die Mediengruppe sich am Montag.
+3. Für die Veröffentlichung der Kritiken sind einige hundert Yuan nötig. ==> Um die Kritiken veröffentlichen to können, sind einige hundert Yuan nötig.
+4. Für die Korrektur der Aufsätze brauchen die Mitarbeiter der Mediengruppe noch ein paar Tage. ==> Um die Aufsätze korrigieren zu können, brauchen die Mitarbeiter der Mediengruppe noch ein paar Tage. 
+5. Zur Vorbereitung auf unser Examen bildeten wir fünf Lernergruppen, jede mit guten, durchschnittlichen und weniger guten Studenten. ==> Um unser Examen vorzubereiten, bildeten wir fünf Lernergruppen, jede mit guten, durchschnittlichen und weniger guten Studenten.  
+6. Viele Studenten treffen sich in Studentenclubs zum Musikhören, zum Tanzen, zum Schach- oder Tennisspielen oder weil sie am Wochenende nicht gern allein sind.
