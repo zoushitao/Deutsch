@@ -29,32 +29,32 @@ ____
 ![[027 L3 Vokabeln-T1.mp3]]
 ___
 ### Text 2
-| DEUTSCH                                               | ENGLISCH             | INFO                  |
-| ----------------------------------------------------- | -------------------- | --------------------- |
-| <font color="#ff0000">der</font> Zeuge,-n,-n                                          | witness              |                       |
-| springen,springt,sprang,hat gesprungen                | jump,hop,spring      | +Dir.                 |
-| braun                                                 | adj. brown           |                       |
-| <font color="#ff0000">der</font> Schrei,e                                          | cry                  |                       |
-| <font color="#0070c0">die </font>  Straßenseite,-n                                   |                      |                       |
-| vorbei/laufen                                         | run past             | an+Dat. #✳️Verwendung |
-| <font color="#ff0000">der</font> Täter,-                                           | prepatrator,offender |                       |
-| beschreiben,beschreibt,</br>beschrieb,hat beschrieben | describe             |                       |
-| breit                                                 | adj.broad            |                       |
-| stark                                                 | adj.strong           |                       |
-| <font color="#ff0000">der</font> Bart,Bärte 🧔‍♂️                                  | bear                 |                       |
-| also                                                  | adv.                 |                       |
-| ob                                                    | conj. wether         |                       |
-| dass                                                  | conj.                |                       |
-| auf/haben                                             | to wear (hat 🎩)     | +Akku.                |
-| hell                                                  | adj.bright           |                       |
-| an/haben                                              | to wear (clothes 👗) | +Akku.                |
-| blau                                                  | adj. blue            |                       |
-| grün                                                  | adj.green            |                       |
-| geradeous                                             | adv. straightforward |                       |
-| <font color="#00b050">das</font> Tempo,-s                                          | speed                |                       |
-| <font color="#0070c0">die </font>  Ampel,-n                                          | traffic light🚥      |                       |
-| <font color="#0070c0">die </font>  U-Bahn,-en                                        | subway               |                       |
-| <font color="#ff0000">der</font> Nachbar,-n                                        | neighbor             | #⚠️Plural                       |
+| DEUTSCH                                               | ENGLISCH             | INFO      |
+| ----------------------------------------------------- | -------------------- | --------- |
+| <font color="#ff0000">der</font> Zeuge,-n,-n          | witness              |           |
+| springen,springt,sprang,hat gesprungen                | jump,hop,spring      | +Dir.     |
+| braun                                                 | adj. brown           |           |
+| <font color="#ff0000">der</font> Schrei,e             | cry                  |           |
+| <font color="#0070c0">die </font>  Straßenseite,-n    |                      |           |
+| vorbei/laufen                                         | run past             | an+Dat.   |
+| <font color="#ff0000">der</font> Täter,-              | prepatrator,offender |           |
+| beschreiben,beschreibt,</br>beschrieb,hat beschrieben | describe             |           |
+| breit                                                 | adj.broad            |           |
+| stark                                                 | adj.strong           |           |
+| <font color="#ff0000">der</font> Bart,Bärte 🧔‍♂️     | bear                 |           |
+| also                                                  | adv.                 |           |
+| ob                                                    | conj. wether         |           |
+| dass                                                  | conj.                |           |
+| auf/haben                                             | to wear (hat 🎩)     | +Akku.    |
+| hell                                                  | adj.bright           |           |
+| an/haben                                              | to wear (clothes 👗) | +Akku.    |
+| blau                                                  | adj. blue            |           |
+| grün                                                  | adj.green            |           |
+| geradeous                                             | adv. straightforward |           |
+| <font color="#00b050">das</font> Tempo,-s             | speed                |           |
+| <font color="#0070c0">die </font>  Ampel,-n           | traffic light🚥      |           |
+| <font color="#0070c0">die </font>  U-Bahn,-en         | subway               |           |
+| <font color="#ff0000">der</font> Nachbar,-n           | neighbor             | #⚠️Plural |
 
 ![[028 L3 Vokabeln-T2.mp3]]
 

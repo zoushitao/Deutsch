@@ -116,27 +116,27 @@ ___
 
 ### Grammatik
 
-| Deutsch                                                  | ENGLISCH               | INFO               |
-| -------------------------------------------------------- | ---------------------- | ------------------ |
-| baden                                                    | to take a shower       |                    |
-| übersetzen                                               | to translate           | +Akku.             |
-| fotographieren                                           | to shoot,take photo of | +Akku.             |
-| glauben                                                  | to believe             | +Akku.             |
-| markieren                                                | to mark                | +Akku.             |
-| <span style="color:green">das</span> Wetter,-            | weather                |                    |
-| <span style="color:red">der</span> Schischuh,-e          | skiing shoes           |                    |
-| <span style="color:red">der</span> Computerclub,-s       | computer club          |                    |
-| bitten                                                   | to request (on sth.)   | #✳️Verwendung  +um Akku. | 
-| <span style="color:red">der</span> Hund,-e               | dog                    |                    |
-| <span style="color:green">das</span> Training,-d         | training               |                    |
-| <span style="color:red">der</span> Umzug,-züge           | move,relocation        |                    |
-| einige                                                   | several                |                    |
-| <span style="color:blue">die</span> Vorbereitung,-en     | preparation            |                    |
-| <span style="color:red">der</span> Studienplatz,-plätze  | <大学学习名额>         |                    |
-| <span style="color:blue">die</span> Tanzparty,-s         | dancing party          |                    |
-| <span style="color:blue">die</span> Kunstausstellung,-en | art exhibition         |                    |
-| <span style="color:green">das</span> Erlebnis,-se        | experience             | #⚠️Plural          |
-| <span style="color:red">der</span> Mensch,-en            | people                 | #⚠️Plural          |
+| Deutsch                                                  | ENGLISCH               | INFO      |     |
+| -------------------------------------------------------- | ---------------------- | --------- | --- |
+| baden                                                    | to take a shower       |           |     |
+| übersetzen                                               | to translate           | +Akku.    |     |
+| fotographieren                                           | to shoot,take photo of | +Akku.    |     |
+| glauben                                                  | to believe             | +Akku.    |     |
+| markieren                                                | to mark                | +Akku.    |     |
+| <span style="color:green">das</span> Wetter,-            | weather                |           |     |
+| <span style="color:red">der</span> Schischuh,-e          | skiing shoes           |           |     |
+| <span style="color:red">der</span> Computerclub,-s       | computer club          |           |     |
+| bitten                                                   | to request (on sth.)   | +um Akku. |     |
+| <span style="color:red">der</span> Hund,-e               | dog                    |           |     |
+| <span style="color:green">das</span> Training,-d         | training               |           |     |
+| <span style="color:red">der</span> Umzug,-züge           | move,relocation        |           |     |
+| einige                                                   | several                |           |     |
+| <span style="color:blue">die</span> Vorbereitung,-en     | preparation            |           |     |
+| <span style="color:red">der</span> Studienplatz,-plätze  | <大学学习名额>               |           |     |
+| <span style="color:blue">die</span> Tanzparty,-s         | dancing party          |           |     |
+| <span style="color:blue">die</span> Kunstausstellung,-en | art exhibition         |           |     |
+| <span style="color:green">das</span> Erlebnis,-se        | experience             | #⚠️Plural |     |
+| <span style="color:red">der</span> Mensch,-en            | people                 | #⚠️Plural |     |
 
 ![[10 L10 V Woerter.mp3]]
 ___

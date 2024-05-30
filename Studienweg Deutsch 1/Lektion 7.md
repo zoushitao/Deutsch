@@ -36,43 +36,43 @@ ___
 ### Texte 1
 ---
 
-| __DEUTSCH__                                              | __ENGLISCH__                          | __INFO__                     |
-| -------------------------------------------------------- | ------------------------------------- | ---------------------------- |
-| <span style="color:red">der</span> Minidialog,-e         | mini dialog                           |                              |
-| <span style="color:red">der</span> Papi,-s               | papa                                  |                              |
-| helfen,hilf,half,hat geholfen                            | to help                               | +Dat. #✳️Verwendung   (+bei)(+mit) |
-| gefallen,gefällt,gefiel,hat gefallen                     | to like,appeal                        | +Dat.                        |
-| eigentlich                                               | adj.real,actual; adv.really,in fact   |                              |
-| langweilig                                               | adj. broing adv.dully                 |                              |
-| auf/hören                                                | to stop,cease                         | #✳️Verwendung  +mit                |
-| lieber                                                   | rather,,,                             |                              |
-| hoffentlich                                              | hopefully                             |                              |
-| sitzen,sitzt,saß,hat gesessen                            | to sit                                | +Dir                         |
-| <span style="color:red">der</span> Mord,-e               | murder |                              |
-| anstrengend                                              | exhausting,tiring                     |                              |
-| nett                                                     | nice                                  |                              |
-| aus/machen                                               | to shut                               | +Akku.                       |
-| schrecklich                                              | adj.horrible                          |                              |
-| <span style="color:red">der</span> Hip-Hop               | hiphop                                |                              |
-| <span style="color:blue">die</span> Katzenmusik          | cacophony                             |                              |
-| <span style="color:red">der</span> Nerv,-en              | nerve                                 |                              |
-| jm. auf <span style="color:blue">die</span> Nerven gehen |                                       |                              |
-| fehlen                                                   | to lack,miss                          | +Dat.                        |
-| <span style="color:red">der</span> Speiler,-             | player                                |                              |
-| hübsch                                                   | handsome,beautiful                    |                              |
-| <span style="color:blue">die</span> Größe,-n             | size                                  |                              |
-| <span style="color:red">der</span> Sieg,-e               | victory                               |                              |
-| gewinnen,gewinnt,gewann,hat gewonnen                     | to win,gain                           |                              |
-| <span style="color:red">der</span> Spaß,Späße            | fun                                   |                              |
-| jm. Spaß machen                                          | sb. to bring fun                      |                              |
-| schick                                                   | chick                                 |                              |
-| <span style="color:blue">die</span> Jeans(Pl.)           | jeans                                 | Engl.[dʒi:nz]                |
-| <span style="color:red">der</span> Schluss               | end                                   |                              |
-| <span style="color:blue">die</span> Klaviermusik         | piano music                           |                              |
-| schreien                                                 | to cry,shout,yell                     |                              |
-| <span style="color:red">der</span> Roman,-e              | romantic story                        |                              |
-| uninteressant                                            | uninteresting                         |                              |
-| <span style="color:green">das</span> Shopping,-s         | shopping                              | Engl.                        |
+| __DEUTSCH__                                              | __ENGLISCH__                        | __INFO__             |
+| -------------------------------------------------------- | ----------------------------------- | -------------------- |
+| <span style="color:red">der</span> Minidialog,-e         | mini dialog                         |                      |
+| <span style="color:red">der</span> Papi,-s               | papa                                |                      |
+| helfen,hilf,half,hat geholfen                            | to help                             | +Dat.   (+bei)(+mit) |
+| gefallen,gefällt,gefiel,hat gefallen                     | to like,appeal                      | +Dat.                |
+| eigentlich                                               | adj.real,actual; adv.really,in fact |                      |
+| langweilig                                               | adj. broing adv.dully               |                      |
+| auf/hören                                                | to stop,cease                       |   +mit               |
+| lieber                                                   | rather,,,                           |                      |
+| hoffentlich                                              | hopefully                           |                      |
+| sitzen,sitzt,saß,hat gesessen                            | to sit                              | +Dir                 |
+| <span style="color:red">der</span> Mord,-e               | murder                              |                      |
+| anstrengend                                              | exhausting,tiring                   |                      |
+| nett                                                     | nice                                |                      |
+| aus/machen                                               | to shut                             | +Akku.               |
+| schrecklich                                              | adj.horrible                        |                      |
+| <span style="color:red">der</span> Hip-Hop               | hiphop                              |                      |
+| <span style="color:blue">die</span> Katzenmusik          | cacophony                           |                      |
+| <span style="color:red">der</span> Nerv,-en              | nerve                               |                      |
+| jm. auf <span style="color:blue">die</span> Nerven gehen |                                     |                      |
+| fehlen                                                   | to lack,miss                        | +Dat.                |
+| <span style="color:red">der</span> Speiler,-             | player                              |                      |
+| hübsch                                                   | handsome,beautiful                  |                      |
+| <span style="color:blue">die</span> Größe,-n             | size                                |                      |
+| <span style="color:red">der</span> Sieg,-e               | victory                             |                      |
+| gewinnen,gewinnt,gewann,hat gewonnen                     | to win,gain                         |                      |
+| <span style="color:red">der</span> Spaß,Späße            | fun                                 |                      |
+| jm. Spaß machen                                          | sb. to bring fun                    |                      |
+| schick                                                   | chick                               |                      |
+| <span style="color:blue">die</span> Jeans(Pl.)           | jeans                               | Engl.[dʒi:nz]        |
+| <span style="color:red">der</span> Schluss               | end                                 |                      |
+| <span style="color:blue">die</span> Klaviermusik         | piano music                         |                      |
+| schreien                                                 | to cry,shout,yell                   |                      |
+| <span style="color:red">der</span> Roman,-e              | romantic story                      |                      |
+| uninteressant                                            | uninteresting                       |                      |
+| <span style="color:green">das</span> Shopping,-s         | shopping                            | Engl.                |
 
 ![[08 L7 V T1.mp3]]
 ___

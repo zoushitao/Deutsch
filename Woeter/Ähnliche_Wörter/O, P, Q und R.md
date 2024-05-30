@@ -44,3 +44,37 @@ _______________
 | <font color="#0070c0">die</font> Physik      | physics             |
 
 _______________
+
+| Englisch    | Deutsch        |
+| ----------- | -------------- |
+| pragmatisch | adj. pragmatic |
+| praktisch   | adj. pratical  |
+
+_______________
+
+| Englisch      | Deutsch            |
+| ------------- | ------------------ |
+| physisch      | adj. physical      |
+| psychisch     | adj. mental        |
+| physiologisch | adj. physiological |
+| philosophisch | adj. philosophical |
+
+_______________
+
+| Englisch               | Deutsch              |
+| ---------------------- | -------------------- |
+| die Qualität, -en      | quality              |
+| qualitativ             | qualitative          |
+| die Qualifikation, -en | qualification        |
+| qualifizieren          | to qualify           |
+| die Qual, -en          | torture, agony       |
+| quälen                 | to torture, distress |
+
+1. Seine Erfahrung qualifiziert ihn für diesen Posten.
+2. Ich wollte dich damit nicht quälen. {*I did not mean to distress you.*} 
+
+_______________
+
+| Englisch            | Deutsch |
+| ------------------- | ------- |
+| das Risiko, Risiken | risk    |

@@ -1,79 +1,79 @@
 ## 🔰Vokabeln
 ###  Vorübung
 
-| DEUTSCH                                                 | ENGLISCH             | INFO                    |
-| ------------------------------------------------------- | -------------------- | ----------------------- |
-| fröhlich                                                | happy                |                         |
-| gehören                                                 | belong (to)          | #✳️Verwendung zu + Dat. |
-| <span style="color:red">der</span> Advent               | advent               |                         |
-| <span style="color:red">der</span> Adventssonntag,-e    |                      |                         |
-| <span style="color:red">der</span> Adventkalender,-     |                      |                         |
-| <span style="color:blue">die</span> Kerze,-n            | candle               |                         |
-| <span style="color:blue">die</span> Adventkerze,-n      |                      |                         |
-| <span style="color:red">der</span> kranz,Kränze         | wreath               |                         |
-| <span style="color:red">der</span> Adentkranz,-kränzer  |                      |                         |
-| <span style="color:green">das</span> Weihnachtsfest     | Christmas holiday    |                         |
-| das Weihnachtsgeschenk,-geschenke                       | Christmas present    |                         |
-| <span style="color:green">das</span> Weihnachtslied,-er | Christmas song       |                         |
-| <span style="color:red">der</span> Weihnachtsbaum,bäume | Christmas tree       |                         |
-| <span style="color:red">der</span> Weihnachtsmann,männe | Santa Claus          |                         |
-| <span style="color:red">der</span> Weihnachtsschmuch    | Christmas decoration |                         |
-| <span style="color:red">der</span> Stern,-e             | star                 |                         |
-| <span style="color:red">der</span> Weihnachtsstern,-e   | Christmas star       |                         |
+| DEUTSCH                                                 | ENGLISCH             | INFO       |
+| ------------------------------------------------------- | -------------------- | ---------- |
+| fröhlich                                                | happy                |            |
+| gehören                                                 | belong (to)          |  zu + Dat. |
+| <span style="color:red">der</span> Advent               | advent               |            |
+| <span style="color:red">der</span> Adventssonntag,-e    |                      |            |
+| <span style="color:red">der</span> Adventkalender,-     |                      |            |
+| <span style="color:blue">die</span> Kerze,-n            | candle               |            |
+| <span style="color:blue">die</span> Adventkerze,-n      |                      |            |
+| <span style="color:red">der</span> kranz,Kränze         | wreath               |            |
+| <span style="color:red">der</span> Adentkranz,-kränzer  |                      |            |
+| <span style="color:green">das</span> Weihnachtsfest     | Christmas holiday    |            |
+| das Weihnachtsgeschenk,-geschenke                       | Christmas present    |            |
+| <span style="color:green">das</span> Weihnachtslied,-er | Christmas song       |            |
+| <span style="color:red">der</span> Weihnachtsbaum,bäume | Christmas tree       |            |
+| <span style="color:red">der</span> Weihnachtsmann,männe | Santa Claus          |            |
+| <span style="color:red">der</span> Weihnachtsschmuch    | Christmas decoration |            |
+| <span style="color:red">der</span> Stern,-e             | star                 |            |
+| <span style="color:red">der</span> Weihnachtsstern,-e   | Christmas star       |            |
 
 ___
 ### Text 1
 
-| DEUTSCH                                                                | ENGLISCH                | INFO                     |
-| ---------------------------------------------------------------------- | ----------------------- | ------------------------ |
-| <span style="color:blue">die</span> Legende,-n                         | legend,story            |                          |
-| <span style="color:blue">die</span> Weihnachtslegende,-n               | Christmas legend        |                          |
-| <span style="color:green">das</span> Datum,Daten                       | date                    | #⚠️Plural                |
-| <span style="color:blue">die</span> Geschichte,-n                      | story                   |                          |
-| überall                                                                | adv. everywhere         |                          |
-| <span style="color:blue">die</span> Welt,-en                           | world                   |                          |
-| <span style="color:red">der</span> Christ,-en                          | christ                  |                          |
-| <span style="color:blue">die</span> Geburt,-en                         | birth                   |                          |
-| Jesus Christus                                                         | Jesus Christ            |                          |
-| <span style="color:red">der</span> Kaiser,-                            | emperor                 |                          |
-| <span style="color:red">der</span> Herrscher,-n                        | ruler,governer          |                          |
-| <span style="color:green">das</span> Volk,Völker                       | people                  |                          |
-| <span style="color:blue">die</span> Volkszählung,-en                   | demographical stastics  |                          |
-| veranstalten                                                           | to organize             | +Akku.                   |
-| <span style="color:blue">die</span> Heimat,-en                         | hometown,homeland       |                          |
-| <span style="color:blue">die</span> Heimatstadt,-städte                | birth city              |                          |
-| reisen                                                                 | to travel               | +Dir                     |
-| zählen                                                                 | to count                |                          |
-| <span style="color:red">der</span> Schreiner,-                         | carpenter               |                          |
-| <span style="color:red">der</span> Ort,-e                              | place,location,spot     | #⚠️Plural                |
-| <span style="color:green">das</span> Gasthaus,häuser                   | inn                     |                          |
-| schwanger                                                              | pregnent                |                          |
-| <span style="color:red">der</span> Stall,Ställe                        | stable,barn             |                          |
-| übernachten                                                            | to stay overnight       |                          |
-| <span style="color:red">der</span> Ochse,-n                            | ox                      |                          |
-| <span style="color:red">der</span> Esel,-                              | donkey                  |                          |
-| ein Kind bekommen                                                      | to give birth to a baby |                          |
-| <span style="color:blue">die</span> Krippe,-n                          |                         |                          |
-| nennen,nennt,nannte,hat genannt                                        | to call,name            |          |
-| <span style="color:red">der</span> Hirt,-en                            | shepherd                | #⚠️Plural                |
-| <span style="color:red">der</span> Engel,-                             | angel                   |                          |
-| <span style="color:red">der</span> Gott,Götter                         | god                     | #⚠️Plural                |
-| retten                                                                 | to save                 |                          |
-| <span style="color:red">der</span> König,-e                            | king                    |                          |
-| führen                                                                 | lead                    | #✳️Verwendung +Akku.+Dir |
-| der/die Arme                                                           | the poor                | wie Adj.                 |
-| der/die Reiche                                                         | the rich                | wie Adj.                 |
-| der/die Mächtige                                                       | the powerful            |                          |
-| <span style="color:red">der</span> Jude,-n                             | jew                     |                          |
-| <span style="color:red">der</span> Moslem,-s                           | muslim                  |                          |
-| <span style="color:red">der</span> Prophet,-en                         | prophet                 | #⭐wichtig wie N         |
-| <span style="color:green">das</span> Reich,-e                          | kingdom                 | #⚠️Plural                |
-| <span style="color:red">der</span> Heiligabend,-e                      | Christmas Eve           |                          |
-| <span style="color:green">das</span> Weihnachtsessen,-                 | Christmas dinner        |                          |
-| aus/schlafen,schläft aus,schlief aus,hat ausgeschlafen  | sleep enough            |                          |
-| <span style="color:red">der</span> Tannenbaum,-bäume                   |                         |                          |
-| schmücken                                                              | to decorate             |                          |
-| <span style="color:red">der</span> Stress,-e                           | stress                  |                          |
+| DEUTSCH                                                  | ENGLISCH                | INFO       |
+| -------------------------------------------------------- | ----------------------- | ---------- |
+| <span style="color:blue">die</span> Legende,-n           | legend,story            |            |
+| <span style="color:blue">die</span> Weihnachtslegende,-n | Christmas legend        |            |
+| <span style="color:green">das</span> Datum,Daten         | date                    | #⚠️Plural  |
+| <span style="color:blue">die</span> Geschichte,-n        | story                   |            |
+| überall                                                  | adv. everywhere         |            |
+| <span style="color:blue">die</span> Welt,-en             | world                   |            |
+| <span style="color:red">der</span> Christ,-en            | christ                  |            |
+| <span style="color:blue">die</span> Geburt,-en           | birth                   |            |
+| Jesus Christus                                           | Jesus Christ            |            |
+| <span style="color:red">der</span> Kaiser,-              | emperor                 |            |
+| <span style="color:red">der</span> Herrscher,-n          | ruler,governer          |            |
+| <span style="color:green">das</span> Volk,Völker         | people                  |            |
+| <span style="color:blue">die</span> Volkszählung,-en     | demographical stastics  |            |
+| veranstalten                                             | to organize             | +Akku.     |
+| <span style="color:blue">die</span> Heimat,-en           | hometown,homeland       |            |
+| <span style="color:blue">die</span> Heimatstadt,-städte  | birth city              |            |
+| reisen                                                   | to travel               | +Dir       |
+| zählen                                                   | to count                |            |
+| <span style="color:red">der</span> Schreiner,-           | carpenter               |            |
+| <span style="color:red">der</span> Ort,-e                | place,location,spot     | #⚠️Plural  |
+| <span style="color:green">das</span> Gasthaus,häuser     | inn                     |            |
+| schwanger                                                | pregnent                |            |
+| <span style="color:red">der</span> Stall,Ställe          | stable,barn             |            |
+| übernachten                                              | to stay overnight       |            |
+| <span style="color:red">der</span> Ochse,-n              | ox                      |            |
+| <span style="color:red">der</span> Esel,-                | donkey                  |            |
+| ein Kind bekommen                                        | to give birth to a baby |            |
+| <span style="color:blue">die</span> Krippe,-n            |                         |            |
+| nennen,nennt,nannte,hat genannt                          | to call,name            |            |
+| <span style="color:red">der</span> Hirt,-en              | shepherd                |            |
+| <span style="color:red">der</span> Engel,-               | angel                   |            |
+| <span style="color:red">der</span> Gott,Götter           | god                     | l          |
+| retten                                                   | to save                 |            |
+| <span style="color:red">der</span> König,-e              | king                    |            |
+| führen                                                   | lead                    | +Akku.+Dir |
+| der/die Arme                                             | the poor                | wie Adj.   |
+| der/die Reiche                                           | the rich                | wie Adj.   |
+| der/die Mächtige                                         | the powerful            |            |
+| <span style="color:red">der</span> Jude,-n               | jew                     |            |
+| <span style="color:red">der</span> Moslem,-s             | muslim                  |            |
+| <span style="color:red">der</span> Prophet,-en           | prophet                 | wie N      |
+| <span style="color:green">das</span> Reich,-e            | kingdom                 |            |
+| <span style="color:red">der</span> Heiligabend,-e        | Christmas Eve           |            |
+| <span style="color:green">das</span> Weihnachtsessen,-   | Christmas dinner        |            |
+| aus/schlafen,schläft aus,schlief aus,hat ausgeschlafen   | sleep enough            |            |
+| <span style="color:red">der</span> Tannenbaum,-bäume     |                         |            |
+| schmücken                                                | to decorate             |            |
+| <span style="color:red">der</span> Stress,-e             | stress                  |            |
 
 ![[05 L11 V T1.mp3]]
 
@@ -84,35 +84,35 @@ ___
 ______
 ### Text 2
 
-| DEUTSCH                                               | ENGLISCH                         | INFO                  |
-| ----------------------------------------------------- | -------------------------------- | --------------------- |
-| still                                                 | adj. still                       |                       |
-| <span style="color:blue">die</span> Mütze,-n          | cap                              |                       |
-| herrschen                                             | to prevail,rule                  |                       |
-| <span style="color:red">der</span> Parkplatz,-plätze  | parking lot                      |                       |
-| <span style="color:green">das</span> Parkhaus,-häuser | car park(indoors or underground) |                       |
-| <span style="color:red">der</span> Kaufhof            |                                  |                       |
-| <span style="color:blue">die</span> Kasse,-n          | checkout,counter                 |                       |
-| mit/machen                                            | to do sth. together              | +Akku.                |
-| riechen,riecht,roch,hat gerochen                      | to smell                         | +adj.                 |
-| <span style="color:blue">die</span> Gans,Gänse        | goose                            | #⚠️Plural             |
-| <span style="color:red">der</span> Ofen,Öfen          | oven,stove                       | #⚠️Plural             |
-| <span style="color:red">der</span> Kloß,Klöße         | dumpling                         |                       |
-| werden,wird                                           | to become                        | +N/Adj.               |
-| <span style="color:red">der</span> Rotkohl            | purple cabbage                   |                       |
-| an/zünden                                             | to light,fire,ignite             |                       |
-| <span style="color:blue">die</span> Vorsicht          | caution,care                     |                       |
+| DEUTSCH                                               | ENGLISCH                         | INFO                 |
+| ----------------------------------------------------- | -------------------------------- | -------------------- |
+| still                                                 | adj. still                       |                      |
+| <span style="color:blue">die</span> Mütze,-n          | cap                              |                      |
+| herrschen                                             | to prevail,rule                  |                      |
+| <span style="color:red">der</span> Parkplatz,-plätze  | parking lot                      |                      |
+| <span style="color:green">das</span> Parkhaus,-häuser | car park(indoors or underground) |                      |
+| <span style="color:red">der</span> Kaufhof            |                                  |                      |
+| <span style="color:blue">die</span> Kasse,-n          | checkout,counter                 |                      |
+| mit/machen                                            | to do sth. together              | +Akku.               |
+| riechen,riecht,roch,hat gerochen                      | to smell                         | +adj.                |
+| <span style="color:blue">die</span> Gans,Gänse        | goose                            |                      |
+| <span style="color:red">der</span> Ofen,Öfen          | oven,stove                       |                      |
+| <span style="color:red">der</span> Kloß,Klöße         | dumpling                         |                      |
+| werden,wird                                           | to become                        | +N/Adj.              |
+| <span style="color:red">der</span> Rotkohl            | purple cabbage                   |                      |
+| an/zünden                                             | to light,fire,ignite             |                      |
+| <span style="color:blue">die</span> Vorsicht          | caution,care                     |                      |
 | auf/passen                                            | to take care of,look after       | +auf Akku. #⭐Wichtig |
-| an/stellen                                            | to open                          |                       |
-| auf/legen                                             | to put down,hang up(phone)       |                       |
-| <span style="color:green">das</span> Christkind       | Christ baby                      |                       |
-| verschlafen,verschläft,verschlief,hat geschlafen      | to over sleep                    |                       |
-| <span style="color:red">der</span> Feiertag,-tage     | festival                         |                       |
-| froh                                                  | happy                            |                       |
-| auf/wachen                                            | to wake up                       |                       |
-| aus/ruhen                                             | to relax                         |                       |
-| <span style="color:green">das</span> Fest,-e          | festival                         | #⚠️Plural             |
-| <span style="color:green">das</span> Frühlingfest     | spring festival                  |                       |
+| an/stellen                                            | to open                          |                      |
+| auf/legen                                             | to put down,hang up(phone)       |                      |
+| <span style="color:green">das</span> Christkind       | Christ baby                      |                      |
+| verschlafen,verschläft,verschlief,hat geschlafen      | to over sleep                    |                      |
+| <span style="color:red">der</span> Feiertag,-tage     | festival                         |                      |
+| froh                                                  | happy                            |                      |
+| auf/wachen                                            | to wake up                       |                      |
+| aus/ruhen                                             | to relax                         |                      |
+| <span style="color:green">das</span> Fest,-e          | festival                         | #⚠️Plural            |
+| <span style="color:green">das</span> Frühlingfest     | spring festival                  |                      |
 
 ![[06 L11 V T2.mp3]]
 

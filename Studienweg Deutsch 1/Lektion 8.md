@@ -22,10 +22,10 @@ ___
 ### Text 1
 
 | DEUTSCH                                               | ENGLISCH                   | ANDERES                   |
-|:----------------------------------------------------- |:-------------------------- |:------------------------- |
+| :---------------------------------------------------- | :------------------------- | :------------------------ |
 | gemeinsam                                             | adj,common,in common,joint |                           |
-| sparen                                                | to spare                   | +Akku. #✳️Verwendung (für/auf+Akku.)     |
-| nützen #🥵Unbekannt                                            | to use                     |                           |
+| sparen                                                | to spare                   | +Akku. (für/auf+Akku.)    |
+| nützen #🥵Unbekannt                                   | to use                     |                           |
 | <span style="color:red">der</span> Wissenschaftler,-  | scientist                  | Notice that there's a 't' |
 | <span style="color:blue">die</span> Wortbedeutung,-en | word meaning               |                           |
 | selbst                                                | self                       |                           |

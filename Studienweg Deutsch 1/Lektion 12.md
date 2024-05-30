@@ -11,34 +11,34 @@
 ____
 ### Text 1
 
-| DEUTSCH                                                  | ENGLISCH                  | INFO                |
-| -------------------------------------------------------- | ------------------------- | ------------------- |
-| <span style="color:green">das</span> Rennen,-            | race                      |                     |
-| Rennen machen                                            | to win the race           |                     |
-| <span style="color:blue">die</span> Fremdsprache,-n      | foreign language          |                     |
-| <span style="color:green">das</span> Fremdsprachenlernen | foreign language learning |                     |
+| DEUTSCH                                                  | ENGLISCH                  | INFO               |
+| -------------------------------------------------------- | ------------------------- | ------------------ |
+| <span style="color:green">das</span> Rennen,-            | race                      |                    |
+| Rennen machen                                            | to win the race           |                    |
+| <span style="color:blue">die</span> Fremdsprache,-n      | foreign language          |                    |
+| <span style="color:green">das</span> Fremdsprachenlernen | foreign language learning |                    |
 | vergleichen                                              | to campare                | +A+(mit) #⭐Wichtig |
-| <span style="color:red">der</span> Wettkampf,-kämpfe     | (sports) competition      |                     |
-| <span style="color:blue">die</span> Wettkampfregel,-n    | competition rule          |                     |
-| <span style="color:red">der</span> Sprint,-e/-s          | sprint                    |                     |
-| <span style="color:red">der</span> Zwischenspurt,-e/-s   |                           |                     |
-| überholen                                                | to overtake,pass          |                     |
-| <span style="color:red">der</span> Läufer,-              | runner                    |                     |
-| <span style="color:red">der</span> Langstreckenläufer,-  | long runner               |                     |
-| <span style="color:blue">die</span> Kraft,Kräfte         | force,power               | #⚠️Plural           |
-| <span style="color:red">der</span> Lerner,-              | learner                   |                     |
-| ein/teilen                                               | to classify,sort          |                     |
-| <span style="color:red">der</span> Endspurt,-e/-s        | final spurt               |                     |
-| <span style="color:green">das</span> Ziel,-e            | goal                      |                     |
-| <span style="color:green">das</span> Leben               | life                      |                     |
-| <span style="color:green">das</span> Mittel,-            | methode,way               |                     |
-| <span style="color:red">der</span> Lernpsychologe,-n     |                           |                     |
-| <span style="color:red">der</span> Stoff,-e              | material                  |                     |
-| <span style="color:red">der</span> Lernstoff,-e          | learning material         |                     |
-| auf/holen                                                | to catch up               | +Akku.              |
-| ein/holen                                                | to catch up               | +Akku.              |
-| an/kommen                                                | to arrive                 | +Dir                |
-| positiv                                                  | adj. positive             |                     |
+| <span style="color:red">der</span> Wettkampf,-kämpfe     | (sports) competition      |                    |
+| <span style="color:blue">die</span> Wettkampfregel,-n    | competition rule          |                    |
+| <span style="color:red">der</span> Sprint,-e/-s          | sprint                    |                    |
+| <span style="color:red">der</span> Zwischenspurt,-e/-s   |                           |                    |
+| überholen                                                | to overtake,pass          |                    |
+| <span style="color:red">der</span> Läufer,-              | runner                    |                    |
+| <span style="color:red">der</span> Langstreckenläufer,-  | long runner               |                    |
+| <span style="color:blue">die</span> Kraft,Kräfte         | force,power               |                    |
+| <span style="color:red">der</span> Lerner,-              | learner                   |                    |
+| ein/teilen                                               | to classify,sort          |                    |
+| <span style="color:red">der</span> Endspurt,-e/-s        | final spurt               |                    |
+| <span style="color:green">das</span> Ziel,-e             | goal                      |                    |
+| <span style="color:green">das</span> Leben               | life                      |                    |
+| <span style="color:green">das</span> Mittel,-            | methode,way               |                    |
+| <span style="color:red">der</span> Lernpsychologe,-n     |                           |                    |
+| <span style="color:red">der</span> Stoff,-e              | material                  |                    |
+| <span style="color:red">der</span> Lernstoff,-e          | learning material         |                    |
+| auf/holen                                                | to catch up               | +Akku.             |
+| ein/holen                                                | to catch up               | +Akku.             |
+| an/kommen                                                | to arrive                 | +Dir               |
+| positiv                                                  | adj. positive             |                    |
 
 ![[05 L12 V Voruebung.mp3]]
 ______

@@ -282,4 +282,10 @@ Wenn das Vorfeld eines Aussagesatzes von keiner Ergänzung oder Angabe besetzt i
 3. Für die Veröffentlichung der Kritiken sind einige hundert Yuan nötig. ==> Um die Kritiken veröffentlichen to können, sind einige hundert Yuan nötig.
 4. Für die Korrektur der Aufsätze brauchen die Mitarbeiter der Mediengruppe noch ein paar Tage. ==> Um die Aufsätze korrigieren zu können, brauchen die Mitarbeiter der Mediengruppe noch ein paar Tage. 
 5. Zur Vorbereitung auf unser Examen bildeten wir fünf Lernergruppen, jede mit guten, durchschnittlichen und weniger guten Studenten. ==> Um unser Examen vorzubereiten, bildeten wir fünf Lernergruppen, jede mit guten, durchschnittlichen und weniger guten Studenten.  
-6. Viele Studenten treffen sich in Studentenclubs zum Musikhören, zum Tanzen, zum Schach- oder Tennisspielen oder weil sie am Wochenende nicht gern allein sind.
+6. Viele Studenten treffen sich in Studentenclubs zum Musikhören, zum Tanzen, zum Schach- oder Tennisspielen oder weil sie am Wochenende nicht gern allein sind. ==> Viele Studenten treffen sich in Studentenclubs um zu tanzen, um Schach oder Tennis zu spielen, oder weil sie am Wochenende nicht gern allein sind.
+7. Für effektives Lernen sind Grundkenntnisse  der Lernpsychologie und der Gedächtnisleistung sehr nützlich. ==> um effektiv zu lernen sind Grundkenntnisse  der Lernpsychologie und der Gedächtnisleistung sehr nützlich.
+
+| Englisch                                    | Deutsch               | Info              |
+| ------------------------------------------- | --------------------- | ----------------- |
+| vertreten, vertritt, vertrat, hat vertraten | to advocate,represent | +Akku.            |
+| widersprechen                               | to contradict, object | + Dat. #🚨Achtung |
