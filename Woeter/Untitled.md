@@ -16,3 +16,8 @@
 | in etw(Akku.) ein/tauchen | to immerse         |
 | nutzlos                   | adj. useless       |
 | unvorstellbar             | adj. inconvincible |
+| ausführen                 | to perform         |
+| ausführung                | performance        |
+| hirnlos                   | adj. brainless     |
+| sämtlich                  | pron. all          |
+| entstehen                 | to occur,arise     |

@@ -20,19 +20,19 @@
             }
           },
           {
-            "id": "e8f83f2db3d6e9dd",
+            "id": "483bc54315ff64b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tagesbuch/Jan 2.Woche.md",
+                "file": "Woeter/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "483bc54315ff64b1",
+            "id": "612fd31c3fa949b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,8 +192,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "148bf8d9a5cbfe66",
+  "active": "612fd31c3fa949b8",
   "lastOpenFiles": [
+    "Studienweg Deutsch 2/Lektion 13.md",
+    "Tagesbuch/Jun 1.Woche.md",
+    "Woeter/Ähnliche_Wörter/H,I und K.md",
+    "Tagesbuch/Jan 2.Woche.md",
+    "Studienweg Deutsch 2/Lektion 14.md",
+    "Kurzgesagt/Diese Zellen machen dich immun gegen ALLES.md",
+    "Woeter/Untitled.md",
+    "Kurzgesagt",
+    "Studienweg Deutsch 2/Lektion 12.md",
     "Woeter/Ähnliche_Wörter/O, P, Q und R.md",
     "Studienweg Deutsch 1/Lektion 11.md",
     "Studienweg Deutsch 1/Lektion 10.md",
@@ -202,16 +210,10 @@
     "Studienweg Deutsch 1/Lektion 7.md",
     "Studienweg Deutsch 2/Lektion 3.md",
     "Studienweg Deutsch 1/Lektion 12.md",
-    "Studienweg Deutsch 2/Lektion 12.md",
-    "Woeter/Ähnliche_Wörter/H,I und K.md",
-    "Tagesbuch/Jan 2.Woche.md",
     "Studienweg Deutsch 2/Lektion 11.md",
-    "Woeter/Untitled.md",
     "Woeter/Ähnliche_Wörter/L und M.md",
     "Woeter/Ähnliche_Wörter/A.md",
-    "Studienweg Deutsch 2/Lektion 14.md",
     "README.md",
-    "Studienweg Deutsch 2/Lektion 13.md",
     "Studienweg Deutsch 2/Hoertext/L14/116 L14 ü2 Reden ist silber,Schreiben ist Gold - Ein Interview.mp3",
     "Studienweg Deutsch 2/Hoertext/L14/117 L14 T1.1 Warum geschrieben wird..mp3",
     "Studienweg Deutsch 2/Hoertext/L14/118 L14 T1.2 Schreiben mit Kopf und Koepfchen.mp3",
@@ -221,7 +223,6 @@
     "Studienweg Deutsch 2/Hoertext/L14/122 L14 Vokabeln-Uebungen.mp3",
     "Studienweg Deutsch 2/Hoertext/L14/123 L14 Vokabeln-T1.mp3",
     "Studienweg Deutsch 2/Hoertext/L14/124 L14 Vokabeln-T2.mp3",
-    "Studienweg Deutsch 2/Hoertext/L14/125 L14 Vokabeln-T3.mp3",
     "Woeter/Ähnliche_Wörter/B.md",
     "Woeter/Ähnliche_Wörter/F und G.md",
     "2024-04-24.md",
@@ -229,8 +230,6 @@
     "Woeter/Ähnliche_Wörter/C und D.md",
     "Tagesbuch/April 1.Woche.md",
     "Woeter/Essen.md",
-    "Standard.md",
-    "Untitled.md",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]

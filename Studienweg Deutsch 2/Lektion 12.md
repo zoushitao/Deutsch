@@ -285,7 +285,28 @@ Wenn das Vorfeld eines Aussagesatzes von keiner Ergänzung oder Angabe besetzt i
 6. Viele Studenten treffen sich in Studentenclubs zum Musikhören, zum Tanzen, zum Schach- oder Tennisspielen oder weil sie am Wochenende nicht gern allein sind. ==> Viele Studenten treffen sich in Studentenclubs um zu tanzen, um Schach oder Tennis zu spielen, oder weil sie am Wochenende nicht gern allein sind.
 7. Für effektives Lernen sind Grundkenntnisse  der Lernpsychologie und der Gedächtnisleistung sehr nützlich. ==> um effektiv zu lernen sind Grundkenntnisse  der Lernpsychologie und der Gedächtnisleistung sehr nützlich.
 
-| Englisch                                    | Deutsch               | Info              |
-| ------------------------------------------- | --------------------- | ----------------- |
-| vertreten, vertritt, vertrat, hat vertraten | to advocate,represent | +Akku.            |
-| widersprechen                               | to contradict, object | + Dat. #🚨Achtung |
+| Englisch                                       | Deutsch                         | Info              |
+| ---------------------------------------------- | ------------------------------- | ----------------- |
+| vertreten, vertritt, vertrat, hat vertraten    | to advocate,represent           | +Akku.            |
+| widersprechen                                  | to contradict, object           | + Dat. #🚨Achtung |
+| besprechen                                     | to discuss                      |                   |
+| verursachen,                                   | to cause, produce               |                   |
+| fakultativ                                     | adj. optional                   |                   |
+| ein/führen                                     | to introduce, establish, import |                   |
+| Vorgang, -gänge                                | process, operation              |                   |
+| erscheinen                                     | to appear, be published, seem   |                   |
+| <font color="#ff0000">der</font> Satellit, -en | satelite                        | #⚠️Plural         |
+| <font color="#00b050">das</font> Erdbeben, -s  | earthquake                      |                   |
+| zerstörtengit                                  | to ruin                         |                   |
+
+1. Das Angebot der Firma erschien mir ansprechend.{*The company's offer seemed appealing to me.*}
+2. 
+### 2. *von* oder *durch*
+
+1. Die Subjektergänzung(der Handelnde, der Akteur, das Verursachende) des Aktivsatzes wird im Passivsatz meistens weggelassen. Sie kann aber als fakultative präpositionale Ergänzung mit von oder durch vorkommen.
+2. Sind die Akteure Personen, werden sie im Passivsatz meistens durch die Präposition ***von*** eingeführt; Die Dinge oder Urstände die Ursache für Vorgänge, steht im Passiv meistens ***durch***.
+3. Wenn der Akteur(meistens ein Mensch) ganz bewusst etwas macht oder verursacht, wird er im Passivsatz fast immer mit der Präposition ***von*** genannt; Passiert etwas ohne ohne Absicht, steht vor dem nicht so wichtigen Verursacher im Passiv fast immer ***durch***.
+Aber:
+Oft erscheint der Akteur des Akitivsatzes im Passivsatz nur in einer präpositionalen Angabe Häufig sind die Präpositionen *mit, in* oder *bei*. *Von* und *durch* sind manchmal unüblich und können sogar ganz falsch klingen.
+> Das Fernsehen wird heute einen guten Krimi zeigen. ==> Im Fernsehen wird heute ein guter Krimi gezeigt. (selten: Vom Fernsehen..., unüblich/falsch: Durchs Fernsehen. 
+
