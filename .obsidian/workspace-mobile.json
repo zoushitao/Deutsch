@@ -47,11 +47,9 @@
             "id": "d55fa47919ee81a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tagesbuch/April 1.Woche.md",
-                "mode": "source",
-                "source": false
+                "file": "Woeter/德福新机考必备6000词.pdf"
               }
             }
           }
@@ -134,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Tagesbuch/April 1.Woche.md",
+            "file": "Woeter/德福新机考必备6000词.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Tagesbuch/April 1.Woche.md",
+            "file": "Woeter/德福新机考必备6000词.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Tagesbuch/April 1.Woche.md"
+            "file": "Woeter/德福新机考必备6000词.pdf"
           }
         }
       },
@@ -191,6 +189,7 @@
   },
   "active": "d55fa47919ee81a7",
   "lastOpenFiles": [
+    "Tagesbuch/April 1.Woche.md",
     "Studienweg Deutsch 2/Lektion 14.md",
     "Woeter/Ähnliche_Wörter/F und G.md",
     "Woeter/Ähnliche_Wörter/C und D.md",
@@ -200,7 +199,6 @@
     "Woeter/Ähnliche_Wörter/A.md",
     "Woeter/Essen.md",
     "Woeter/Apr 19 2024.md",
-    "Tagesbuch/April 1.Woche.md",
     "Tagesbuch/Jan 2.Woche.md",
     "Tagesbuch/April 4.Woche.md",
     "Woeter/Ähnliche_Wörter",
