@@ -297,10 +297,10 @@ Wenn das Vorfeld eines Aussagesatzes von keiner Ergänzung oder Angabe besetzt i
 | erscheinen                                     | to appear, be published, seem   |                   |
 | <font color="#ff0000">der</font> Satellit, -en | satelite                        | #⚠️Plural         |
 | <font color="#00b050">das</font> Erdbeben, -s  | earthquake                      |                   |
-| zerstörtengit                                  | to ruin                         |                   |
+| zerstörten                                     | to ruin                         |                   |
 
 1. Das Angebot der Firma erschien mir ansprechend.{*The company's offer seemed appealing to me.*}
-2. 
+
 ### 2. *von* oder *durch*
 
 1. Die Subjektergänzung(der Handelnde, der Akteur, das Verursachende) des Aktivsatzes wird im Passivsatz meistens weggelassen. Sie kann aber als fakultative präpositionale Ergänzung mit von oder durch vorkommen.

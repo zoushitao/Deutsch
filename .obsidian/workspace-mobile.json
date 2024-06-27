@@ -4,57 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3c26d1a1d9095ed3",
+        "id": "446a311db1043f35",
         "type": "tabs",
         "children": [
           {
-            "id": "1c2838e3758d69c4",
+            "id": "97c9a4610c2367e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woeter/Ähnliche_Wörter/A.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "cfa60bec72d5fdb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Woeter/Ähnliche_Wörter/C und D.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "774def8791b556c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Woeter/Ähnliche_Wörter/F und G.md",
+                "file": "Tagesbuch/Juni 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d55fa47919ee81a7",
+            "id": "1a27938e141ab14d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Woeter/德福新机考必备6000词.pdf"
+                "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Woeter/德福新机考必备6000词.pdf",
+            "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -149,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Woeter/德福新机考必备6000词.pdf",
+            "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -161,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Woeter/德福新机考必备6000词.pdf"
+            "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md"
           }
         }
       },
@@ -187,8 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d55fa47919ee81a7",
+  "active": "1a27938e141ab14d",
   "lastOpenFiles": [
+    "Tagesbuch/Juni 2024.md",
+    "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
+    "Studienweg Deutsch 2/Lektion 12.md",
     "Tagesbuch/April 1.Woche.md",
     "Studienweg Deutsch 2/Lektion 14.md",
     "Woeter/Ähnliche_Wörter/F und G.md",
@@ -229,9 +210,6 @@
     "README.md",
     "QuickNotes/August 2023.md",
     "Untitled.md",
-    "Studienweg Deutsch 1/Lektion 9.md",
-    "Studienweg Deutsch 1/Lektion 7.md",
-    "Studienweg Deutsch 1/Lektion 6.md",
     "Studienweg Deutsch 2/Bilder/himmelsrichtung.jpeg",
     "Studienweg Deutsch 2/Bilder/adjektivdeklination.png",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",

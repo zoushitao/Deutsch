@@ -1,4 +1,4 @@
-## Text 1
+## 1️⃣ Text 
 
 ### Vokabeln
 
@@ -61,7 +61,7 @@ Oder hässlicher? Ist früher vielleicht besser geschrieben worden, als man noch
 
 
 
-## Text 2
+## 2️⃣ Text 
 
 | DEUTSCH                                                                                 | ENGLISCH                | INFO   |
 | --------------------------------------------------------------------------------------- | ----------------------- | ------ |
@@ -101,7 +101,7 @@ Oder hässlicher? Ist früher vielleicht besser geschrieben worden, als man noch
 ![[113 L13 Vokabeln-T2.mp3]]
 
 
-## Text 3
+## 3️⃣ Text 
 
 | DEUTSCH                                              | ENGLISCH            | INFO   |
 | ---------------------------------------------------- | ------------------- | ------ |
@@ -128,8 +128,11 @@ Oder hässlicher? Ist früher vielleicht besser geschrieben worden, als man noch
 
 ![[114 L13 Vokabeln-T3.mp3]]
 
+### *Help! Help! Help!*
 
-## Wörter
+
+
+## 📝 Wörter
 
 | DEUTSCH        | ENGLISCH            | INFO |
 | -------------- | ------------------- | ---- |
@@ -138,3 +141,112 @@ Oder hässlicher? Ist früher vielleicht besser geschrieben worden, als man noch
 | vollständig    | adj. full, complete |      |
 
 ![[115 L13 Vokabeln-Woerter.mp3]]
+
+
+### W1 : Zeigen Sie Gefühle
+
+#### 1. Glück
+- fröhlich (快乐的)
+- glücklich (幸福的)
+- heiter (愉快的)
+- vergnügt (高兴的)
+
+#### 2. Schade
+- traurig (悲伤的)
+- betrübt (忧伤的)
+- bedrückt (沉重的)
+- deprimiert (沮丧的)
+
+#### 3. Ärger
+- wütend (愤怒的)
+- zornig (愤怒的)
+- verärgert (生气的)
+- erbost (愤怒的)
+
+#### 4.Angst
+- ängstlich (害怕的)
+- furchtsam (恐惧的)
+- besorgt (担心的)
+- erschrocken (惊恐的)
+
+#### 5. Haß
+- ekelhaft (令人作呕的)
+- widerwärtig (令人反感的)
+- abscheulich (令人憎恶的)
+#### 6. Wunder
+- erstaunt (惊讶的)
+- überrascht (惊讶的)
+- verwundert (惊讶的)
+
+### W2 : Suffixe des Adjektivs
+#### 1. Die Suffixe *-ik, -iker, -isch*
+
+
+| Nomen auf *-ik* | Nomen auf *-iker* | Nomen auf *isch* |
+| --------------- | ----------------- | ---------------- |
+| die Technik     | der Techniker     | technisch        |
+| die Politik     | der Politeker     | politisch        |
+| die Kritik      | der Kritiker      | kritisch         |
+| die Logik       | der Logiker       | logisch          |
+| die Phonetik    | der Phonetiker    | phonetisch       |
+| die Grammatik   | der Grammatiker   | grammatisch      |
+| die Mathematik  | der Mathematiker  | mathematisch     |
+| die Physik      | der Physiker      | physikalisch     |
+
+#### 2. -isch
+
+
+| Nomen          | Adjektive      |
+| -------------- | -------------- |
+| die Theorie    | theoretisch    |
+| die Soziologie | soziologisch   |
+| die Literatur  | literarisch    |
+| das Thema      | thematisch     |
+| die Geste      | gestisch       |
+| der Journalist | journalistisch |
+| der Germanist  | germanistisch  |
+| der Künstler   | künstlerisch   |
+
+#### 3.Länder
+
+| Nomen       | Adjektive      |
+| ----------- | -------------- |
+| china       | chinesisch     |
+| Amerika     | amerikanisch   |
+| England     | englisch       |
+| Frankreich  | französisch    |
+| Japan       | japanisch      |
+| Spanien     | spanisch       |
+| Russland    | russisch       |
+| Österreich  | Österreichisch |
+| die Schweiz | schweizerisch  |
+| Italien     | italienisch    |
+| Korea       | Koreanisch     |
+| Indien      | indisch        |
+
+#### 4. Zeit-Adjektive auf *-ig* und *-lich*
+
+- In den Ferien haben wir eine <mark style="background: #FF5582A6;">vierzehntägige</mark> Reise gemacht.
+- Die Informatik-Vorlesung findet vierzehntäglich statt.
+
+Regel:
+	Das Zeit-Adjektiv auf ***-ig*** gibt eine <mark style="background: #BBFABBA6;">Zeitdauer</mark> an. Das Zeit-Adjektiv auf ***-lich*** sagt, dass sich etwas <mark style="background: #BBFABBA6;">nach dieser Zeit wiederholt.</mark>
+
+z.B.
+- Mein freund ist gestern von meinem <mark style="background: #FFB8EBA6;">vierjährigen</mark> Auslandsstudium zurückgekommen.
+- Ich treffe mich <mark style="background: #FFB8EBA6;">vierteljährlich</mark> einmal mit meinen alten Mitstudenten.
+- Für meinen <mark style="background: #FFB8EBA6;">halbstündigen</mark> Vortrag habe ich mich fast drei Tage vorbereitet.
+- Nun warte ich schon über 20 Minuten. Kommt der Bus 104 nicht <mark style="background: #FFB8EBA6;">viertelstündlich</mark>?
+- Als mein Großvater jung war, gab es noch keinen <mark style="background: #FFB8EBA6;">achtstündigen</mark> Arbeitstag. Er musste <mark style="background: #FFB8EBA6;">täglich</mark> 12 bis 14 Stunden arbeiten.
+- Nachdem sie in einem <mark style="background: #FFB8EBA6;">dreiwöchigen</mark> Schwimmkurs schwimmen gelernt hat, geht sie nun <mark style="background: #FFB8EBA6;">wöchentlich</mark> mindestens zweimal zum Schwimmen.
+
+## 📖 Grammatik
+
+### G1 : Das Passiv(3) : Perfekt und Plusquamperfekt
+
+#### 1. Formen: Perfekt und Plusquamperfekt
+
+
+|     | sein |     | Partizip II | worden |
+| --- | ---- | --- | ----------- | ------ |
+|     |      |     |             |        |

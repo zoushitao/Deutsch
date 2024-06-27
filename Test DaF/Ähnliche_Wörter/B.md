@@ -9,10 +9,10 @@ v
 
 _______
 
-| Englisch   | Deutsch            |
-| ---------- | ------------------ |
-| befürchten | to fear, apprehend |
-| befruchten | to fertilzie       |
+| Englisch   | Deutsch            | Info       |
+| ---------- | ------------------ | ---------- |
+| befürchten | to fear, apprehend | = fürchten |
+| befruchten | to fertilzie       |            |
 1. Ich kann den Arzt nirgendwo sehen, ich befürchte, er ist schon gegangen.
 2. Das Froschmännchen befruchtet die Eier des Froschweibchens.
 _________

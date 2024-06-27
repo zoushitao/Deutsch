@@ -30,3 +30,5 @@ ________
 
 1. Ich möchte dich nicht täuschen, also werde ich dir die Wahrheit sagen.{*I do not want to deceive you so I will tell you the truth.*}
 2. Der Pfarrer taufte meine Tochter in der Kirche.{*The pastor christened my daughter in the church.*}
+
+Referenz : [[Juni 2024#23.]]
