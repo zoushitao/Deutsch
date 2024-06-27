@@ -273,7 +273,7 @@ z.B.
 
 ### G3 : Das Pronomen *es*
 
-1. Als Prowort
+#### 1. Als Prowort
 
 | Funktion                | Beispiel                                                                               | Anmerkung                                   |
 | ----------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -283,8 +283,15 @@ z.B.
 | für Adjektiv-ergänzung  | Sie ist intelligent. Ihre Kinder sind es auch. (Das sind ihre kinder auch.)            | **es** nie im Vorfelder./im Vorfeld **das** |
 | für Sätze               | Sie las ein Buch und ich tat es auch                                                   |                                             |
 
-2. Als fester Bestandteil von verbalenAusdrücken
+#### 2. Als fester Bestandteil von verbalenAusdrücken
 
-| Funktion                | Beispiel                                                                               | Anmerkung                                   |
-| ----------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------- |
-| für Neutra im Nominativ | - Wie ist das Buch? -**es** ist sehr spannend.                                         |                                             |
+| Funktion                          | Beispiel                                                                                                                                                                                         | Anmerkung                                        |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| Feste Ausdrücke - es im Nominativ | - Wie geht es Ihnen<br>- Gefällt's Ihnen gut in Beijing? <br>- Da gibt es viele Sehenswürdigkeiten. <br>-Worum geht es in diesem Artikel? <br>-Es tut mir Leid, ich habe ihn noch nicht gelesen. | in der Umgangssprache *es* oft zu *'s* verkürzt. |
+| Feste Ausdrücke - es im Akkusativ | - Ich habe es eilig.<br>- Er meint es gut mit dir <br>- Sie hat es gut                                                                                                                           | *es* nie im Vorfeld.                             |
+| (Uhr-)Zeit                        | - Wie spät ist es. - Es ist drei.                                                                                                                                                                |                                                  |
+| Wetter-Verben/Adjektive           | Es regnet/schneit/blitzt/donnert.                                                                                                                                                                | *es* und *Verb* bilden eine Einheit.             |
+| Geräusch-Verben                   | Es klingelt. Es klopft.                                                                                                                                                                          |                                                  |
+
+#### 3. Als Korrelat
+

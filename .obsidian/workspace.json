@@ -13,51 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "file": "Studienweg Deutsch 2/Lektion 14.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07b334666fd4b14e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf"
-              }
-            }
-          },
-          {
-            "id": "91d7c5ce484255a6",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "Studienweg Deutsch 2/Hoertext/L13/111 L13 ü14 Und so klingt das am Telefon.mp3"
-              }
-            }
-          },
-          {
-            "id": "6d3302d6e15b2534",
+            "id": "573fd8170d60c831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test DaF/Ähnliche_Wörter/C und D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c54118e01de0bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studienweg Deutsch 2/Lektion 12.md",
+                "file": "Standard.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "file": "Studienweg Deutsch 2/Lektion 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md",
+                "file": "Studienweg Deutsch 2/Lektion 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 13.md"
+                "file": "Studienweg Deutsch 2/Lektion 14.md"
               }
             }
           },
@@ -198,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,18 +177,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "b06f35476e5d9159",
   "lastOpenFiles": [
-    "Studienweg Deutsch 2/Lektion 12.md",
-    "Studienweg Deutsch 2/Lektion 13.md",
-    "Tagesbuch/Juni 2024.md",
+    "Standard.md",
+    "Studienweg Deutsch 2/Lektion 14.md",
     "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
     "Studienweg Deutsch 2/Hoertext/L13/111 L13 ü14 Und so klingt das am Telefon.mp3",
-    "Test DaF/Ähnliche_Wörter/B.md",
+    "Studienweg Deutsch 2/Lektion 13.md",
+    "Tagesbuch/Juni 2024.md",
     "Test DaF/Ähnliche_Wörter/C und D.md",
+    "Studienweg Deutsch 2/Lektion 12.md",
+    "Test DaF/Ähnliche_Wörter/B.md",
     "Studienweg Deutsch 2/Hoertext/L13/110 L13 T3.2 Ach Gott, Maria!.mp3",
     "Studienweg Deutsch 2/Hoertext/L13/109 L13 T3.1 Help!Help!Help!.mp3",
     "Studienweg Deutsch 2/Lektion 11.md",
@@ -235,7 +208,6 @@
     "Tagesbuch/April 4.Woche.md",
     "Tagesbuch/Jun 1.Woche.md",
     "Test DaF/Untitled.md",
-    "Studienweg Deutsch 2/Lektion 14.md",
     "Kurzgesagt/Diese Zellen machen dich immun gegen ALLES.md",
     "Kurzgesagt",
     "Studienweg Deutsch 1/Lektion 11.md",
