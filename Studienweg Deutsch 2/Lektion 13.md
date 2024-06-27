@@ -247,6 +247,44 @@ z.B.
 #### 1. Formen: Perfekt und Plusquamperfekt
 
 
-|     | sein |     | Partizip II | worden |
-| --- | ---- | --- | ----------- | ------ |
-|     |      |     |             |        |
+|      | sein        |                       | Partizip II | worden  |
+| ---- | ----------- | --------------------- | ----------- | ------- |
+| Ich  | bin/war     | nicht danach          | gefragt     | worden. |
+| Du   | bist/warst  | doch auch             | eingeladen  | worden? |
+| Sie  | sind/waren  | doch auch             | eingeladen  | worden? |
+|      | Ist/ War    | er/sie er ins Büro    | gebracht    | worden? |
+| Wir  | sind/ waren | mit einem Bus         | abgeholt    | worden. |
+| Wann | seid/wart   | ihr darüber           | informiert  | worden. |
+|      | Sind/Waren  | Sie durch das Telefon | gestört     | worden? |
+| Sie  | sind/waren  | zum Essen             | eingeladen  | worden? |
+
+### G2 : Das Passiv(4) -- Passiv mit Modalverben
+
+|      | Modalverb |                    | Partizip II | werden  |
+| ---- | --------- | ------------------ | ----------- | ------- |
+| Ich  | möchte    | nicht danach       | gefragt     | werden. |
+| Du   | sollst    | doch auch          | eingeladen  | werden. |
+|      | Wollen    | Sie nicht auch     | eingeladen  | werden? |
+|      | Soll      | er/sie/es ins Büro | gebracht    | werden? |
+| Wir  | können    | mit einem Bus      | abgeholt    | werden. |
+| Wann | müsst     | ihr darüber        | informiert  | werden? |
+|      | Wollen    | Sie nicht          | abgeholt    | werden? |
+| Sie  | müssen    | zum Essen          | eingeladen  | werden. |
+
+### G3 : Das Pronomen *es*
+
+1. Als Prowort
+
+| Funktion                | Beispiel                                                                               | Anmerkung                                   |
+| ----------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------- |
+| für Neutra im Nominativ | - Wie ist das Buch? -**es** ist sehr spannend.                                         |                                             |
+| für Neutra im Akkusativ | - Wo ist mein Wörterbuch? - Ich habe es leider auch nicht gesehen.                     | **es** nie im Vorfelder.                    |
+| für Nominal-ergänzungen | Der Vater ist Journalist. Der Sohn will es auch werden.(Das will der Sohn auch werden) | **es** nie im Vorfelder./im Vorfeld **das** |
+| für Adjektiv-ergänzung  | Sie ist intelligent. Ihre Kinder sind es auch. (Das sind ihre kinder auch.)            | **es** nie im Vorfelder./im Vorfeld **das** |
+| für Sätze               | Sie las ein Buch und ich tat es auch                                                   |                                             |
+
+2. Als fester Bestandteil von verbalenAusdrücken
+
+| Funktion                | Beispiel                                                                               | Anmerkung                                   |
+| ----------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------- |
+| für Neutra im Nominativ | - Wie ist das Buch? -**es** ist sehr spannend.                                         |                                             |
