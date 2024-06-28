@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md",
+                "file": "Test DaF/Wortfeld/Schulbildung.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "573fd8170d60c831",
+            "id": "ba15978184cdd636",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Standard.md",
+                "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "827dd33597d9f7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tagesbuch/Juni 2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md",
+                "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md",
+                "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Studienweg Deutsch 2/Lektion 14.md"
+                "file": "Test DaF/Ähnliche_Wörter/U, V, W und Z.md"
               }
             }
           },
@@ -182,14 +195,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b06f35476e5d9159",
+  "active": "ba15978184cdd636",
   "lastOpenFiles": [
-    "Standard.md",
+    "Tagesbuch/Juni 2024.md",
+    "Test DaF/Wortfeld/Schulbildung.md",
+    "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
     "Studienweg Deutsch 2/Lektion 14.md",
+    "Test DaF/Wortfeld",
+    "Test DaF/德福新机考必备6000词.pdf.sb-168932a7-LL8s79",
+    "Standard.md",
     "Studienweg Deutsch 2/当代大学德语  教师手册  2_40209639.pdf",
     "Studienweg Deutsch 2/Hoertext/L13/111 L13 ü14 Und so klingt das am Telefon.mp3",
     "Studienweg Deutsch 2/Lektion 13.md",
-    "Tagesbuch/Juni 2024.md",
     "Test DaF/Ähnliche_Wörter/C und D.md",
     "Studienweg Deutsch 2/Lektion 12.md",
     "Test DaF/Ähnliche_Wörter/B.md",
@@ -200,7 +217,6 @@
     "Test DaF/Ähnliche_Wörter/T.md",
     "Studienweg Deutsch 2/Lektion 10.md",
     "Tagesbuch/Januar 2024.md",
-    "Test DaF/Ähnliche_Wörter/U, V, W und Z.md",
     "Test DaF/Ähnliche_Wörter/S.md",
     "Tagesbuch/April 2024.md",
     "Test DaF/Ähnliche_Wörter/A.md",
@@ -214,12 +230,9 @@
     "Studienweg Deutsch 1/Lektion 10.md",
     "Studienweg Deutsch 1/Lektion 8.md",
     "Studienweg Deutsch 1/Lektion 7.md",
-    "Studienweg Deutsch 2/Lektion 3.md",
     "Studienweg Deutsch 2/Hoertext/L14/116 L14 ü2 Reden ist silber,Schreiben ist Gold - Ein Interview.mp3",
     "Studienweg Deutsch 2/Hoertext/L14/117 L14 T1.1 Warum geschrieben wird..mp3",
     "Studienweg Deutsch 2/Hoertext/L14/118 L14 T1.2 Schreiben mit Kopf und Koepfchen.mp3",
-    "Studienweg Deutsch 2/Hoertext/L14/119 L14 ü11 Suche nach einem Breifpartner.mp3",
-    "Studienweg Deutsch 2/Hoertext/L14/120 L14 T2 Brieffreundschften.mp3",
     "Studienweg Deutsch 2/Bilder/IMG_7038.jpg",
     "Studienweg Deutsch 2/Bilder/IMG_7014.jpg"
   ]

@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#0b8ed5",
   "baseFontSize": 23,
   "theme": "system",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "textFontFamily": "",
   "baseFontSizeAction": true
 }

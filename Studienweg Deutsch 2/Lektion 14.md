@@ -14,6 +14,8 @@
 | das Wortspiel, -e                     | word game                        |      |
 | bedeuten                              | to mean                          |      |
 
+![[122 L14 Vokabeln-Uebungen.mp3]]
+
 ## Text 1
 
 | DEUTSCH                                          | ENGLISCH                            | INFO            |
@@ -68,6 +70,7 @@
 ![[123 L14 Vokabeln-T1.mp3]]
 
 1. Diese Arbeit verlangt viel Geduld.
+2. Das Verhalten unseres Chefs seinen Mitarbeitern gegenüber ist einwandfrei.
 ### geben
 
 | DEUTSCH   | ENGLISCH            | INFO |
